@@ -125,11 +125,13 @@ with tab_selection:
     cost7 = 0
 
     st.write(f'''
-         ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. You have <span style="color:blue"> {budget} </span> coins left. </div>
+         ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. You have <span style="color:blue"> {budget} </span> coins to spend. </div>
          ''', unsafe_allow_html=True)
 
     player1 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=None)
     st.write("You selected:", player1)
+
+    player1 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.Name, index=None)
 
     players = st.multiselect(
         "Choose 5 individual sports and 2 team sports",
