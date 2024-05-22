@@ -131,13 +131,15 @@ with tab_selection:
     player1 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=None)
     st.write("You selected:", player1)
 
-    player_list = dfplayers['id'].to_list()
-    print(player_list)
-
     players_selected = st.multiselect(
         "Choose 5 individual sports and 2 team sports",
         ["Green", "Yellow", "Red", "Blue"],
         ["Yellow", "Red"]
+    )
+
+    players_selected = st.multiselect(
+        "Choose 5 individual sports and 2 team sports",
+        dfplayers.ID
     )
 
     st.write("You selected:",str(players_selected)[1:-1])
