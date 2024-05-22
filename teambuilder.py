@@ -7,8 +7,8 @@ st.set_page_config(page_title="HSBC SigmaLabs", page_icon="🏅",initial_sidebar
 @st.cache
 def load_and_prep_players():
     dfplayers = pd.read_csv('data/data.csv')
-    dfplayers['Name'] = dfplayers['name']
     dfplayers['ID'] = dfplayers['id']
+    dfplayers['Name'] = dfplayers['name']
     dfplayers['Age'] = dfplayers['age']
     dfplayers['Gender'] = dfplayers['gender']
     dfplayers['Height'] = dfplayers['height'].apply(lambda val: str(val) + ' cm')
@@ -26,7 +26,7 @@ def load_and_prep_players():
 
 dfplayers = load_and_prep_players()
 
-cols = ['Name','ID','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Biography','Price','Media Focus','Sport Name', 'Sport Category',]
+cols = ['ID','Name','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Biography','Price','Media Focus','Sport Name', 'Sport Category',]
 
 ########################################### Style ###########################################
 
