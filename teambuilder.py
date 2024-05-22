@@ -116,33 +116,37 @@ st.sidebar.markdown(
 with tab_selection:
 
     budget = 500
-    cost1 = 0
-    cost2 = 0
-    cost3 = 0
-    cost4 = 0
-    cost5 = 0
-    cost6 = 0
-    cost7 = 0
 
     st.write(f'''
-         ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. You have <span style="color:blue"> {budget} </span> coins to spend. </div>
+         ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. \n You have <span style="color:blue"> {budget} </span>  coins to spend. </div>
          ''', unsafe_allow_html=True)
 
-    player1 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=None)
-    st.write("You selected:", player1)
+    player = st.selectbox("Choose a player (or click below and start typing):", dfplayers.Name, index=None)
+
+    styler_player = (dfplayers[dfplayers.Name == player][cols]
+                     .style.set_properties(**{'background': 'azure', 'border': '1.2px solid'})
+                     .hide(axis='index')
+                     .set_table_styles(dfstyle)
+                     .applymap(color_focus, subset=pd.IndexSlice[:, ['Media Focus']]))
+    st.table(styler_player)
+
 
     players_selected = st.multiselect(
         "Choose 5 individual sports and 2 team sports",
         dfplayers.ID,default=None, key=None, help=None, on_change=None, args=None, max_selections=7, placeholder="Choose an option", disabled=False, label_visibility="visible"
     )
 
-
     st.write("You selected:",str(players_selected)[1:-1])
 
+######### Update the budget
 
 st.success('''**Add some notes here:**  
 You can add some more notes here ''')
 
 ########################################### Player/Team Tab ###########################################
+
+
+
+
 
 ########################################### Credits Tab ###########################################
