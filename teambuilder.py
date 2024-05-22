@@ -133,14 +133,9 @@ with tab_selection:
 
     players_selected = st.multiselect(
         "Choose 5 individual sports and 2 team sports",
-        ["Green", "Yellow", "Red", "Blue"],
-        ["Yellow", "Red"]
+        dfplayers.ID,default=None, key=None, help=None, on_change=None, args=None, max_selections=7, placeholder="Choose an option", disabled=False, label_visibility="visible"
     )
 
-    players_selected = st.multiselect(
-        "Choose 5 individual sports and 2 team sports",
-        dfplayers.ID
-    )
 
     st.write("You selected:",str(players_selected)[1:-1])
 
