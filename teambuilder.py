@@ -132,12 +132,12 @@ with tab_selection:
     st.write("You selected:", player1)
 
     player_list = dfplayers['id'].to_list()
+    print(player_list)
 
     players_selected = st.multiselect(
         "Choose 5 individual sports and 2 team sports",
         ["Green", "Yellow", "Red", "Blue"],
-        ["Yellow", "Red"],
-        player_list
+        ["Yellow", "Red"]
     )
 
     st.write("You selected:",str(players_selected)[1:-1])
