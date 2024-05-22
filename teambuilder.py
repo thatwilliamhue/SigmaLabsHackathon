@@ -128,13 +128,18 @@ with tab_selection:
          ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. You have <span style="color:blue"> {budget} </span> coins left. </div>
          ''', unsafe_allow_html=True)
 
-    player1 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
-    player2 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
-    player3 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
-    player4 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
-    player5 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
-    player6 = st.selectbox("Choose a team (or click below and start typing):", dfplayers.ID, index=0)
-    player7 = st.selectbox("Choose a team (or click below and start typing):", dfplayers.ID, index=0)
+    player1 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=None)
+    st.write("You selected:", player1)
+
+    players = st.multiselect(
+        "Choose 5 individual sports and 2 team sports",
+        ["Green", "Yellow", "Red", "Blue"],
+        ["Yellow", "Red"])
+
+    st.write("You selected:", players)
+
+
+
 
 st.success('''**Add some notes here:**  
 You can add some more notes here ''')
