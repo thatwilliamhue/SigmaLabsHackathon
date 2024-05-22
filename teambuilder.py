@@ -118,10 +118,10 @@ with tab_selection:
     budget = 500
 
     st.write(f'''
-         ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. \n You have <span style="color:blue"> {budget} </span>  coins to spend. </div>
+         ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. You have <span style="color:blue"> {budget} </span>  coins to spend. </div>
          ''', unsafe_allow_html=True)
 
-    player = st.selectbox("Choose a player (or click below and start typing):", dfplayers.Name, index=None)
+    player = st.selectbox("Player lookup (just start typing):", dfplayers.Name, index=None)
 
     styler_player = (dfplayers[dfplayers.Name == player][cols]
                      .style.set_properties(**{'background': 'azure', 'border': '1.2px solid'})
@@ -140,8 +140,8 @@ with tab_selection:
 
 ######### Update the budget
 
-st.success('''**Add some notes here:**  
-You can add some more notes here ''')
+st.success('''**Tips & Hints:**
+Try to spend all your coins to maximise your chances''')
 
 ########################################### Player/Team Tab ###########################################
 
