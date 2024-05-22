@@ -70,7 +70,7 @@ heading_properties = [('font-size', '16px'), ('text-align', 'center'),
                       ('color', 'black'), ('font-weight', 'bold'),
                       ('background', 'mediumturquoise'), ('border', '1.2px solid')]
 
-cell_properties = [('font-size', '16px'), ('text-align', 'center')]
+cell_properties = [('font-size', '16px'), ('text-align', 'center'), ('color', 'black')]
 
 dfstyle = [{"selector": "th", "props": heading_properties},
            {"selector": "td", "props": cell_properties}]
