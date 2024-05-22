@@ -2,12 +2,13 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.set_page_config(page_title="HSBC SigmaLabs", page_icon="HSBC",initial_sidebar_state="expanded")
+st.set_page_config(page_title="HSBC SigmaLabs", page_icon="🏅",initial_sidebar_state="expanded")
 ########################################### Load Data ###########################################
 @st.cache
 def load_and_prep_players():
-    dfplayers = pd.read_csv('data/app_dfplayers.csv')
+    dfplayers = pd.read_csv('data/data.csv')
     dfplayers['Name'] = dfplayers['name']
+    dfplayers['ID'] = dfplayers['id']
     dfplayers['Age'] = dfplayers['age']
     dfplayers['Gender'] = dfplayers['gender']
     dfplayers['Height'] = dfplayers['height'].apply(lambda val: str(val) + ' cm')
@@ -20,12 +21,12 @@ def load_and_prep_players():
     dfplayers['Media Focus'] = dfplayers['focus'].apply(lambda val: str(val) + ' tweets')
     dfplayers['Sport Name'] = dfplayers['sport']
     dfplayers['Sport Category'] = dfplayers['category']
-    dfplayers = dfplayers.set_index('Name', drop=False)
+    dfplayers = dfplayers.set_index('ID', drop=False)
     return dfplayers
 
 dfplayers = load_and_prep_players()
 
-cols = ['Name','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Biography','Price','Media Focus','Sport Name', 'Sport Category']
+cols = ['Name','ID','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Biography','Price','Media Focus','Sport Name', 'Sport Category',]
 
 ########################################### Style ###########################################
 
@@ -95,7 +96,7 @@ st.title("HSBC SigmaLabs - Olympic Fantasy League")
 st.markdown('''##### <span style="color:gray">Build your Olympics dream team</span>
             ''', unsafe_allow_html=True)
 
-tab_player, tab_team, tab_explore, tab_faq = st.tabs(["Sports Selection", "Player/Team Lookup", "Credits"])
+tab_selection, tab_lookup, tab_credits = st.tabs(["Player/Team Selection", "Player/Team Lookup", "Credits"])
 
 col1, col2, col3 = st.sidebar.columns([1, 8, 1])
 with col1:
@@ -110,4 +111,34 @@ st.sidebar.markdown(
     "Description goes here")
 
 
-########################################### Title, Tabs and Sidebar ###########################################
+########################################### Selection Tab ###########################################
+
+with tab_selection:
+
+    budget = 500
+    cost1 = 0
+    cost2 = 0
+    cost3 = 0
+    cost4 = 0
+    cost5 = 0
+    cost6 = 0
+    cost7 = 0
+
+    st.write(f'''
+         ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. You have <span style="color:blue"> {budget} </span> coins left. </div>
+         ''', unsafe_allow_html=True)
+
+    player1 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
+    player2 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
+    player3 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
+    player4 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
+    player5 = st.selectbox("Choose a player (or click below and start typing):", dfplayers.ID, index=0)
+    player6 = st.selectbox("Choose a team (or click below and start typing):", dfplayers.ID, index=0)
+    player7 = st.selectbox("Choose a team (or click below and start typing):", dfplayers.ID, index=0)
+
+st.success('''**Add some notes here:**  
+You can add some more notes here ''')
+
+########################################### Player/Team Tab ###########################################
+
+########################################### Credits Tab ###########################################
