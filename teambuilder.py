@@ -92,7 +92,7 @@ st.markdown(
 
 ########################################### Title, Tabs and Sidebar ###########################################
 
-st.title("HSBC SigmaLabs - Olympic Fantasy League")
+st.title("Olympic Fantasy League")
 st.markdown('''##### <span style="color:gray">Build your Olympics dream team</span>
             ''', unsafe_allow_html=True)
 
@@ -108,7 +108,7 @@ with col3:
 
 st.sidebar.markdown(" ## About Olympic Fantasy League")
 st.sidebar.markdown(
-    "Description goes here")
+    "  \n Welcome to Olympic Fantasy League!  \n You have 500 coins to build your 2024 Paris Olympics team.  \n Choose 5 athletes from individual sports and 2 teams.  \n Follow along with live Olympic events and gain points as your players do.  \n Compare and compete with friends and immerse yourselves in the Paris Olympics.")
 
 
 ########################################### Selection Tab ###########################################
@@ -125,7 +125,7 @@ with tab_selection:
     budget = 1000
 
     st.write(f'''
-         ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. You have <span style="color:blue"> {budget} </span>  coins to spend. </div>
+         ##### <div style="text-align: center"> Time to select your 5 individual players and 2 teams. You have <span style="color:blue"> {budget} </span>  coins to spend. </div>
          ''', unsafe_allow_html=True)
 
     player = st.selectbox("Player lookup (just start typing):", dfplayers.Name, index=None)
@@ -156,8 +156,11 @@ with tab_selection:
     Try to spend all your coins to maximise your chances''')
 
 ########################################### Player/Team Tab ###########################################
-
-
+#player lookup and review stats
+with tab_lookup:
+    st.write(f'''
+         ##### <div style="text-align: center"> text. </div>
+         ''', unsafe_allow_html=True)
 
 
 
