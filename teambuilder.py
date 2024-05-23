@@ -149,28 +149,13 @@ with tab_lookup:
     st.write(f'''
          ##### <div style="text-align: center"> text. </div>
          ''', unsafe_allow_html=True)
-    
     player = st.selectbox("Player lookup (just start typing):", dfplayers.Name, index=None)
 
-    df_player = dfplayers[dfplayers.Name == player][cols].transpose()
-
-    olympic_colors = ['blue', 'yellow', 'black', 'green', 'red']
-    dfstyle = [
-        {'selector': 'thead th', 'props': [('background-color', olympic_colors[i % len(olympic_colors)]), ('color', 'white'), ('font-size', '14px')]}
-        for i in range(len(df_player.columns))
-    ]
-
-    # Function to apply Olympic-themed row colors
-    def apply_olympic_colors(s):
-        return ['background-color: {}'.format(olympic_colors[i % len(olympic_colors)]) for i in range(len(s))]
-
-    styler_player = (
-        df_player
-        .style.set_properties(**{'border': '1.2px solid'})
-        .set_table_styles(dfstyle)
-        .apply(apply_olympic_colors, axis=1)
-    )
-    
+    styler_player = (dfplayers[dfplayers.Name == player][cols]
+                     .style.set_properties(**{'background': 'azure', 'border': '1.2px solid'})
+                     .hide(axis='index')
+                     .set_table_styles(dfstyle)
+                     .applymap(color_focus, subset=pd.IndexSlice[:, ['Media Focus']]))
     st.table(styler_player)
 
 ########################################### Credits Tab ###########################################
