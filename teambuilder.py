@@ -101,8 +101,9 @@ tab_selection, tab_lookup, tab_instructions, tab_credits = st.tabs(["Player/Team
 col1, col2, col3 = st.sidebar.columns([1, 8, 1])
 with col1:
     st.write("")
-    st.image('data/HSBC_Logo.png', use_column_width=True)
 with col2:
+    st.image('data/HSBC_Logo.png', use_column_width=True)
+    st.write("")
     st.image('data/logo.svg.webp', use_column_width=True)
 with col3:
     st.write("")
