@@ -258,9 +258,9 @@ with tab_instructions:
         # Function to check if the guess is correct
         def check_guess(secret_number, guess):
             if guess < secret_number:
-                return "Too low! Try again."
+                return "Too low!"
             elif guess > secret_number:
-                return "Too high! Try again."
+                return "Too high!"
             else:
                 return "Congratulations! You guessed it right!"
         
