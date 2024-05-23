@@ -6,7 +6,7 @@ st.set_page_config(page_title="HSBC SigmaLabs", page_icon="🏅",initial_sidebar
 ########################################### Load Data ###########################################
 @st.cache
 def load_and_prep_players():
-    dfplayers = pd.read_csv('data/data.csv')
+    dfplayers = pd.read_csv('in/tables/data.csv')
     dfplayers['ID'] = dfplayers['id']
     dfplayers['Name'] = dfplayers['name']
     dfplayers['Age'] = dfplayers['age']
@@ -115,6 +115,9 @@ st.sidebar.image('data/HSBC_Logo.png', use_column_width=True)
 ########################################### Selection Tab ###########################################
 
 def check_selection():
+    # for i in range(0, 6):
+        # a = []
+        # a += dfplayers._get_value(players_selected[i], 'Category')
     if len(players_selected) == 7:
         return "true"
     else:
