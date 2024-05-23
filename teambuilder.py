@@ -125,7 +125,7 @@ with tab_selection:
     budget = 1000
 
     st.write(f'''
-         ##### <div style="text-align: center"> Time to select your 5 individual players and 2 teams. You have <span style="color:blue"> {budget} </span>  coins to spend. </div>
+         ##### <div style="text-align: center"> Time to select your 5 individual players and 2 teams. You have <span style="color:gold"> {budget} </span>  coins to spend. </div>
          ''', unsafe_allow_html=True)
 
     player = st.selectbox("Player lookup (just start typing):", dfplayers.Name, index=None)
