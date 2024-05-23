@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import geopandas as gpd
 import folium
+import random
 from streamlit_folium import st_folium
 
 st.set_page_config(page_title="HSBC SigmaLabs", page_icon="🏅",initial_sidebar_state="expanded")
@@ -244,3 +245,79 @@ with tab_instructions:
         st.write('''You can choose 5 individual athletes and 2 teams.  \n You have a budget of 1000 coins - player cost will vary depending on experience so choose your team wisely!  \n Follow along with live Olympic events and gain points as your players do.  \n Compare and compete with friends and immerse yourselves in the Paris Olympics.''', unsafe_allow_html=True)
     
     ##########
+
+    ###Easter Egg by James###
+# Function to check if any player has won
+    def check_winner(board, player):
+        # Check rows
+        for i in range(3):
+            if np.all(board[i] == player):
+                return True
+    
+        # Check columns
+        for i in range(3):
+            if np.all(board[:, i] == player):
+                return True
+    
+        # Check diagonals
+        if np.all(np.diag(board) == player) or np.all(np.diag(np.fliplr(board)) == player):
+            return True
+    
+        return False
+    
+    # Function to check if the game is over
+    def is_game_over(board):
+        return (board == 0).sum() == 0 or check_winner(board, 1) or check_winner(board, 2)
+    
+    # Function to print the Tic Tac Toe board
+    def print_board(board):
+        st.write("   |   |")
+        st.write(f" {board[0][0]} | {board[0][1]} | {board[0][2]} ")
+        st.write("   |   |")
+        st.write("-----------")
+        st.write("   |   |")
+        st.write(f" {board[1][0]} | {board[1][1]} | {board[1][2]} ")
+        st.write("   |   |")
+        st.write("-----------")
+        st.write("   |   |")
+        st.write(f" {board[2][0]} | {board[2][1]} | {board[2][2]} ")
+        st.write("   |   |")
+    
+    # Streamlit app
+    def main():
+        st.title("Tic Tac Toe Game")
+    
+        # Initialize the game board
+        board = np.zeros((3, 3), dtype=int)
+    
+        # Game loop
+        player = 1
+        while not is_game_over(board):
+            st.write("Player", player)
+            print_board(board)
+    
+            # Get player's move
+            col, row = st.selectbox("Select your move", options=[(i, j) for i in range(3) for j in range(3) if board[j][i] == 0], index=0)
+    
+            # Update the board
+            board[row][col] = player
+    
+            # Check if the current player has won
+            if check_winner(board, player):
+                print_board(board)
+                st.write(f"Player {player} wins!")
+                break
+    
+            # Switch players
+            player = 2 if player == 1 else 1
+    
+            # If no winner and board is full, it's a draw
+            if (board == 0).sum() == 0:
+                print_board(board)
+                st.write("It's a draw!")
+                break
+    
+    # Run the app
+    if __name__ == "__main__":
+        main()
+
