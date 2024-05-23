@@ -17,7 +17,7 @@ def load_and_prep_players():
     dfplayers['Medals'] = dfplayers['medals']
     dfplayers['Olympics Games Participated'] = dfplayers['games']
     dfplayers['Biography'] = dfplayers['biography']
-    dfplayers['Price'] = dfplayers['price'].apply(lambda val: str(val) + ' coins')
+    dfplayers['Price'] = dfplayers['price']
     dfplayers['Media Focus'] = dfplayers['focus'].apply(lambda val: str(val) + ' tweets')
     dfplayers['Sport Name'] = dfplayers['sport']
     dfplayers['Sport Category'] = dfplayers['category']
@@ -113,9 +113,16 @@ st.sidebar.markdown(
 
 ########################################### Selection Tab ###########################################
 
-with tab_selection:
+def update_budget_on_change(players_selected):
+    budget = 1000
+    cost =0
+    for i in range(0,6):
+        cost += int(dfplayers._get_value(players_selected[i], 'Price'))
+    money_left = budget - cost
+    return money_left
 
-    budget = 500
+with tab_selection:
+    budget = 1000
 
     st.write(f'''
          ##### <div style="text-align: center"> You need to select 5 individual sports and 2 team sports. You have <span style="color:blue"> {budget} </span>  coins to spend. </div>
@@ -137,11 +144,16 @@ with tab_selection:
     )
 
     st.write("You selected:",str(players_selected)[1:-1])
+    ######### Update the budget
 
-######### Update the budget
+    st.button("Reset", type="primary")
+    if st.button("Check budget"):
+        st.write(update_budget_on_change(players_selected))
+    else:
+        st.write("Budget: 1000")
 
-st.success('''**Tips & Hints:**
-Try to spend all your coins to maximise your chances''')
+    st.success('''**Tips & Hints:**
+    Try to spend all your coins to maximise your chances''')
 
 ########################################### Player/Team Tab ###########################################
 
