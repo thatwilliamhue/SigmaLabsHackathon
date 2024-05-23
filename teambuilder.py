@@ -6,7 +6,7 @@ st.set_page_config(page_title="HSBC SigmaLabs", page_icon="🏅",initial_sidebar
 ########################################### Load Data ###########################################
 @st.cache
 def load_and_prep_players():
-    dfplayers = pd.read_csv('data/in/tables/data.csv')
+    dfplayers = pd.read_csv('/data/in/tables/data.csv')
     dfplayers['ID'] = dfplayers['id']
     dfplayers['Name'] = dfplayers['name']
     dfplayers['Age'] = dfplayers['age']
