@@ -102,8 +102,6 @@ col1, col2, col3 = st.sidebar.columns([1, 8, 1])
 with col1:
     st.write("")
 with col2:
-    st.image('data/HSBC_Logo.png', use_column_width=True)
-    st.write("")
     st.image('data/logo.svg.webp', use_column_width=True)
 with col3:
     st.write("")
@@ -112,7 +110,8 @@ st.sidebar.markdown(" ## About Olympic Fantasy League")
 st.sidebar.markdown(
     "  \n Welcome to Olympic Fantasy League!  \n It's time to build your 2024 Paris Olympics dream team.  \n 5 Athletes 🏃‍♂️ 🏊‍♀️ 🚴‍♂️ 🏋️‍♀️ 🤺  \n 2 teams ⚽ 🏀  \n 1000 Coin Budget 🪙")
 st.sidebar.info("Read more about the app and see the code on our [Github](https://github.com/thatwilliamhue/SigmaLabsHackathon).", icon="ℹ️")
-
+st.sidebar.markdown("")
+st.sidebar.image('data/HSBC_Logo.png', use_column_width=True)
 ########################################### Selection Tab ###########################################
 
 def check_selection():
