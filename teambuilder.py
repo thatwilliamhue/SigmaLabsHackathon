@@ -247,77 +247,38 @@ with tab_instructions:
     ##########
 
     ###Easter Egg by James###
-# Function to check if any player has won
-    def check_winner(board, player):
-        # Check rows
-        for i in range(3):
-            if np.all(board[i] == player):
-                return True
+    # Function to check if any player has won
+    # Function to generate a random number between 1 and 100
+    def generate_random_number():
+        return random.randint(1, 100)
     
-        # Check columns
-        for i in range(3):
-            if np.all(board[:, i] == player):
-                return True
-    
-        # Check diagonals
-        if np.all(np.diag(board) == player) or np.all(np.diag(np.fliplr(board)) == player):
-            return True
-    
-        return False
-    
-    # Function to check if the game is over
-    def is_game_over(board):
-        return (board == 0).sum() == 0 or check_winner(board, 1) or check_winner(board, 2)
-    
-    # Function to print the Tic Tac Toe board
-    def print_board(board):
-        st.write("   |   |")
-        st.write(f" {board[0][0]} | {board[0][1]} | {board[0][2]} ")
-        st.write("   |   |")
-        st.write("-----------")
-        st.write("   |   |")
-        st.write(f" {board[1][0]} | {board[1][1]} | {board[1][2]} ")
-        st.write("   |   |")
-        st.write("-----------")
-        st.write("   |   |")
-        st.write(f" {board[2][0]} | {board[2][1]} | {board[2][2]} ")
-        st.write("   |   |")
+    # Function to check if the guess is correct
+    def check_guess(secret_number, guess):
+        if guess < secret_number:
+            return "Too low! Try again."
+        elif guess > secret_number:
+            return "Too high! Try again."
+        else:
+            return "Congratulations! You guessed it right!"
     
     # Streamlit app
     def main():
-        st.title("Tic Tac Toe Game")
+        st.title("Number Guessing Game")
+        st.write("I have chosen a number between 1 and 100. Try to guess it!")
     
-        # Initialize the game board
-        board = np.zeros((3, 3), dtype=int)
+        # Generate a random number
+        secret_number = generate_random_number()
     
         # Game loop
-        player = 1
-        while not is_game_over(board):
-            st.write("Player", player)
-            print_board(board)
-    
-            # Get player's move
-            col, row = st.selectbox("Select your move", options=[(i, j) for i in range(3) for j in range(3) if board[j][i] == 0], index=0)
-    
-            # Update the board
-            board[row][col] = player
-    
-            # Check if the current player has won
-            if check_winner(board, player):
-                print_board(board)
-                st.write(f"Player {player} wins!")
-                break
-    
-            # Switch players
-            player = 2 if player == 1 else 1
-    
-            # If no winner and board is full, it's a draw
-            if (board == 0).sum() == 0:
-                print_board(board)
-                st.write("It's a draw!")
-                break
+        guess = st.number_input("Enter your guess:", min_value=1, max_value=100, step=1)
+        message = ""
+        if st.button("Check"):
+            message = check_guess(secret_number, guess)
+            st.write(message)
+            if message.startswith("Congratulations"):
+                st.write("The secret number was:", secret_number)
+                st.warning("Game over! Please refresh the page to play again.")
     
     # Run the app
     if __name__ == "__main__":
         main()
-
