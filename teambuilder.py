@@ -68,7 +68,7 @@ def color_focus(val):
 
 heading_properties = [('font-size', '16px'), ('text-align', 'center'),
                       ('color', 'black'), ('font-weight', 'bold'),
-                      ('background', 'mediumturquoise'), ('border', '1.2px solid')]
+                      ('background', 'gold'), ('border', '1.2px solid')]
 
 cell_properties = [('font-size', '16px'), ('text-align', 'center'), ('color', 'black')]
 
