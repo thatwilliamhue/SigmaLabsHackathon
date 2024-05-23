@@ -144,7 +144,7 @@ st.success('''**Tips & Hints:**
 Try to spend all your coins to maximise your chances''')
 
 ########################################### Player/Team Tab ###########################################
-
+#player lookup and review stats
 
 
 
