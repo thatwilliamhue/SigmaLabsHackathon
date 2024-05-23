@@ -108,7 +108,7 @@ with col3:
 
 st.sidebar.markdown(" ## About Olympic Fantasy League")
 st.sidebar.markdown(
-    "Description goes here")
+    "Welcome to Olympic Fantasy League!/n Spend your 500 coins on 5 athletes and 2 teams./n Follow along with live Olympic events and gain points as your players do. /n Compare and compete with friends and immerse yourselves in the Olympics.")
 
 
 ########################################### Selection Tab ###########################################
