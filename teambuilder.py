@@ -159,9 +159,23 @@ with tab_selection:
 #player lookup and review stats
 with tab_lookup:
     st.write(f'''
-         ##### <div style="text-align: center"> text. </div>
+         ##### <div style="text-align: center"> Filter and explore players. </div>
          ''', unsafe_allow_html=True)
 
+    query = st.text_input("E.g. Football, Canada")
+    if query:
+        mask = dfplayers.applymap(lambda x: query in str(x).lower()).any(axis=1)
+        dfplayers = dfplayers[mask]
+    st.data_editor(
+        dfplayers,
+        hide_index=True,
+        column_order=('ID','Name','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Biography','Price','Media Focus','Sport Name', 'Sport Category')
+    )
 
 
 ########################################### Credits Tab ###########################################
+with tab_credits:
+
+    st.write(f'''
+         ##### <div style="text-align: center"> HSBC SigmaLabs Hackathon Team <br><br> Aleksandr Agadzhanov <br> Christian Albertalli <br> James Attwood <br> Sarah Howard <br> Viktoriya Savchyn <br> Will Zhang <br><br> <span style="color:blue"> {'Thank you for your support!'} </span></div>
+         ''', unsafe_allow_html=True)
