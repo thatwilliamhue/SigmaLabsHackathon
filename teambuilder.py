@@ -99,7 +99,7 @@ st.title("Olympic Fantasy League")
 st.markdown('''##### <span style="color:gray">Build your Olympics dream team</span>
             ''', unsafe_allow_html=True)
 
-tab_selection, tab_lookup, tab_instructions, tab_world ,tab_credits = st.tabs(["Player/Team Selection", "Player/Team Lookup", "Country View", "Instructions", "Credits"])
+tab_selection, tab_lookup, tab_world, tab_instructions ,tab_credits = st.tabs(["Player/Team Selection", "Player/Team Lookup", "Country View", "Instructions", "Credits"])
 
 col1, col2, col3 = st.sidebar.columns([1, 8, 1])
 with col1:
