@@ -82,7 +82,7 @@ st.markdown(
 <style>
 .streamlit-expanderHeader {
  #   font-weight: bold;
-    background: aliceblue;
+    background: gold;
     font-size: 18px;
 }
 </style>
