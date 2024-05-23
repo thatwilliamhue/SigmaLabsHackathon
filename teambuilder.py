@@ -113,13 +113,26 @@ st.sidebar.markdown(
 
 ########################################### Selection Tab ###########################################
 
+def check_selection():
+    if len(players_selected) == 7:
+        return "true"
+    else:
+        return "false"
+
 def update_budget_on_change(players_selected):
-    budget = 1000
-    cost =0
-    for i in range(0,6):
-        cost += int(dfplayers._get_value(players_selected[i], 'Price'))
-    money_left = budget - cost
-    return money_left
+    if check_selection() == "true":
+        budget = 1000
+        cost = 0
+        for i in range(0,6):
+            cost += int(dfplayers._get_value(players_selected[i], 'Price'))
+        money_left = budget - cost
+
+        if money_left < 0:
+            return "Oops, you've gone over budget."
+        else:
+            return money_left
+    else:
+        return "Selection not valid, please choose 5 individual sports and 2 team sports."
 
 with tab_selection:
     budget = 1000
