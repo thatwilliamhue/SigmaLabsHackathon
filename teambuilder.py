@@ -108,8 +108,7 @@ with col3:
 
 st.sidebar.markdown(" ## About Olympic Fantasy League")
 st.sidebar.markdown(
-    "  \n Welcome to Olympic Fantasy League!  \n It's time to build your 2024 Paris Olympics dream team.  \n You can choose 5 individual athletes and 2 teams.  \n You have a budget of 1000 coins - player cost will vary depending on experience so choose your team wisely!  \n Follow along with live Olympic events and gain points as your players do.  \n Compare and compete with friends and immerse yourselves in the Paris Olympics.")
-
+    "  \n Welcome to Olympic Fantasy League!  \n It's time to build your 2024 Paris Olympics dream team.  \n 5 Athletes 🏃‍♂️ 🏊‍♀️ 🚴‍♂️ 🏋️‍♀️ 🤸‍♂️ 🤺 \n 2 teams ⚽ 🏀 \n 1000 Coin Budget 🪙")
 
 ########################################### Selection Tab ###########################################
 
