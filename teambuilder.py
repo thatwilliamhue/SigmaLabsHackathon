@@ -246,40 +246,43 @@ with tab_instructions:
     
     ##########
 
-    ###Easter Egg by James###
-    # Function to check if any player has won
-    # Function to generate a random number between 1 and 100
-    def generate_random_number():
-        return random.randint(1, 100)
-    
-    # Function to check if the guess is correct
-    def check_guess(secret_number, guess):
-        if guess < secret_number:
-            return "Too low! Try again."
-        elif guess > secret_number:
-            return "Too high! Try again."
-        else:
-            return "Congratulations! You guessed it right!"
-    
-    # Streamlit app
-    def main():
-        st.title("Number Guessing Game")
-        st.write("I have chosen a number between 1 and 100. Try to guess it!")
-    
-        # Generate a random number
-        secret_number = generate_random_number()
-    
-        # Game loop
-        guess = st.number_input("Enter your guess:", min_value=1, max_value=100, step=1)
-        message = ""
-        if st.button("Check"):
-            message = check_guess(secret_number, guess)
-            st.write(message)
-            if message.startswith("Congratulations"):
-                st.write("The secret number was:", secret_number)
-                st.warning("Game over! Please refresh the page to play again.")
-    
-    # Run the app
-    if __name__ == "__main__":
-        main()
+    expand_faq2 = st.expander('''Easter Egg Game''')
+    with expand_faq2:
+        
+        ###Easter Egg by James###
+        # Function to check if any player has won
+        # Function to generate a random number between 1 and 100
+        def generate_random_number():
+            return random.randint(1, 100)
+        
+        # Function to check if the guess is correct
+        def check_guess(secret_number, guess):
+            if guess < secret_number:
+                return "Too low! Try again."
+            elif guess > secret_number:
+                return "Too high! Try again."
+            else:
+                return "Congratulations! You guessed it right!"
+        
+        # Streamlit app
+        def main():
+            st.title("Number Guessing Game")
+            st.write("I have chosen a number between 1 and 100. Try to guess it!")
+        
+            # Generate a random number
+            secret_number = generate_random_number()
+        
+            # Game loop
+            guess = st.number_input("Enter your guess:", min_value=1, max_value=100, step=1)
+            message = ""
+            if st.button("Check"):
+                message = check_guess(secret_number, guess)
+                st.write(message)
+                if message.startswith("Congratulations"):
+                    st.write("The secret number was:", secret_number)
+                    st.warning("Game over! Please refresh the page to play again.")
+        
+        # Run the app
+        if __name__ == "__main__":
+            main()
   
