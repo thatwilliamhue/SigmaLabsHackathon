@@ -253,7 +253,7 @@ with tab_instructions:
         # Function to check if any player has won
         # Function to generate a random number between 1 and 100
         def generate_random_number():
-            return random.randint(1, 100)
+            return random.randint(1, 10)
         
         # Function to check if the guess is correct
         def check_guess(secret_number, guess):
