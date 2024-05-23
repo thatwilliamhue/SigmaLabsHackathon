@@ -140,8 +140,8 @@ with tab_selection:
 
 ######### Update the budget
 
-    st.success('''**Tips & Hints:**
-    Try to spend all your coins to maximise your chances''')
+st.success('''**Tips & Hints:**
+Try to spend all your coins to maximise your chances''')
 
 ########################################### Player/Team Tab ###########################################
 #player lookup and review stats
@@ -149,13 +149,7 @@ with tab_lookup:
     st.write(f'''
          ##### <div style="text-align: center"> text. </div>
          ''', unsafe_allow_html=True)
-    player = st.selectbox("Player lookup (just start typing):", dfplayers.Name, index=None)
 
-    styler_player = (dfplayers[dfplayers.Name == player][cols]
-                     .style.set_properties(**{'background': 'azure', 'border': '1.2px solid'})
-                     .hide(axis='index')
-                     .set_table_styles(dfstyle)
-                     .applymap(color_focus, subset=pd.IndexSlice[:, ['Media Focus']]))
-    st.table(styler_player)
+
 
 ########################################### Credits Tab ###########################################
