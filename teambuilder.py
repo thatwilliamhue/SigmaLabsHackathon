@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import geopandas as gpd
-import folium
 import random
-from streamlit_folium import st_folium
 
 st.set_page_config(page_title="HSBC SigmaLabs", page_icon="🏅",initial_sidebar_state="expanded")
 ########################################### Load Data ###########################################
