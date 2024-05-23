@@ -108,8 +108,8 @@ with col3:
 
 st.sidebar.markdown(" ## About Olympic Fantasy League")
 st.sidebar.markdown(
-    "  \n Welcome to Olympic Fantasy League!  \n It's time to build your 2024 Paris Olympics dream team.  \n You can choose 5 individual athletes and 2 teams.  \n You have a budget of 1000 coins - player cost will vary depending on experience so choose your team wisely!  \n Follow along with live Olympic events and gain points as your players do.  \n Compare and compete with friends and immerse yourselves in the Paris Olympics.")
-st.sidebar.info("Check out our code on [Github](https://github.com/thatwilliamhue/SigmaLabsHackathon).", icon="ℹ️")
+  
+    "  \n Welcome to Olympic Fantasy League!  \n It's time to build your 2024 Paris Olympics dream team. <br> <br> 5 Athletes 🏃‍♂️ 🏊‍♀️ 🚴‍♂️ 🏋️‍♀️ 🤺  <br> <br> 2 teams ⚽ 🏀  <br> <br> 1000 Coin Budget 🪙")
 
 ########################################### Selection Tab ###########################################
 
