@@ -144,8 +144,11 @@ st.success('''**Tips & Hints:**
 Try to spend all your coins to maximise your chances''')
 
 ########################################### Player/Team Tab ###########################################
-
-
+#player lookup and review stats
+with tab_selection:
+    st.write(f'''
+         ##### <div style="text-align: center"> text. </div>
+         ''', unsafe_allow_html=True)
 
 
 
