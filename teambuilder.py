@@ -267,13 +267,13 @@ with tab_instructions:
         # Streamlit app
         def main():
             st.title("Number Guessing Game")
-            st.write("I have chosen a number between 1 and 100. Try to guess it!")
+            st.write("I have chosen a number between 1 and 10. Try to guess it!")
         
             # Generate a random number
             secret_number = generate_random_number()
         
             # Game loop
-            guess = st.number_input("Enter your guess:", min_value=1, max_value=100, step=1)
+            guess = st.number_input("Enter your guess:", min_value=1, max_value=10, step=1)
             message = ""
             if st.button("Check"):
                 message = check_guess(secret_number, guess)
