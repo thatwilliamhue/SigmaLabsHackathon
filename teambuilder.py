@@ -58,11 +58,11 @@ st.markdown(center_row_text, unsafe_allow_html=True)
 
 def color_focus(val):
     if str(val) == '0':
-        color = 'azure'
+        color = 'lightcyan'
     elif str(val) <= '1000' and str(val) >= '0' :
-        color = 'lightgreen'
+        color = 'lightblue'
     else:
-        color = 'green'
+        color = 'blue'
     return 'background-color: %s' % color
 
 
