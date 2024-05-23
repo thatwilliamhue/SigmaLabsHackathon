@@ -1,1046 +1,4 @@
-id,name,age,gender,height,weight,nationality,medals,games,biography,price,focus,sport,category
-,,,,,,Brazil,,5,,,Swimming,Team
-,,,,,,Great Britain,2 G 5 S 5 B,21,,,Athletics,Team
-,,,,,,Australia,4 G 2 S 1 B,14,,,Swimming,Team
-,,,,,,Canada,,1,,,Rowing,Team
-,,,,,,Ukraine,1 G,4,,,Sailing,Team
-,,,,,,People's Republic of China,1 G 1 S,2,,,Cycling Track,Team
-,,,,,,Italy,,1,,,Sailing,Team
-,,,,,,People's Republic of China,1 S 1 B,6,,,Rowing,Team
-,,,,,,United States of America,1 B,5,,,Hockey,Team
-,,,,,,Republic of Korea,1 S,4,,,Fencing,Team
-,,,,,,Denmark,1 S,7,,,Badminton,Team
-,,,,,,Russian Federation,1 G 1 B,5,,,Diving,Team
-,,,,,,Spain,,1,,,Cycling Track,Team
-,,,,,,Brazil,1 S 2 B,7,,,Athletics,Team
-,,,,,,Ukraine,,1,,,Gymnastics Rhythmic,Team
-,,,,,,Cuba,,1,,,Canoe Sprint,Team
-,,,,,,Netherlands,2 S 3 B,8,,,Rowing,Team
-,,,,,,Germany,,7,,,Sailing,Team
-,,,,,,New Zealand,,10,,,Sailing,Team
-,,,,,,New Zealand,,1,,,Canoe Sprint,Team
-,,,,,,Japan,,1,,,Rugby,Team
-,,,,,,Japan,,1,,,Gymnastics Rhythmic,Team
-,,,,,,People's Republic of China,,1,,,Canoe Sprint,Team
-,,,,,,Russian Federation,1 G,1,,,Gymnastics Rhythmic,Team
-,,,,,,France,,12,,,Swimming,Team
-,,,,,,People's Republic of China,3 G 3 S 1 B,9,,,Gymnastics Artistic,Team
-,,,,,,Poland,,4,,,Swimming,Team
-,,,,,,Japan,2 G 2 S 2 B,12,,,Volleyball,Team
-,,,,,,Malaysia,,3,,,Badminton,Team
-,,,,,,Brazil,,3,,,Athletics,Team
-,,,,,,Lithuania,,1,,,Canoe Sprint,Team
-,,,,,,Germany,,6,,,Sailing,Team
-,,,,,,Australia,2 G 4 S 2 B,18,,,Swimming,Team
-,,,,,,Egypt,,2,,,Table Tennis,Team
-,,,,,,France,2 S 5 B,12,,,Tennis,Team
-,,,,,,France,1 G,2,,,Equestrian Jumping,Team
-,,,,,,Canada,1 S 3 B,5,,,Diving,Team
-,,,,,,Serbia,1 S,3,,,Volleyball,Team
-,,,,,,United States of America,,4,,,Badminton,Team
-,,,,,,People's Republic of China,,1,,,Archery,Team
-,,,,,,France,,1,,,Sailing,Team
-,,,,,,Uruguay,,1,,,Sailing,Team
-,,,,,,Norway,,1,,,Sailing,Team
-,,,,,,New Zealand,1 S,2,,,Cycling Track,Team
-,,,,,,France,1 B,7,,,Sailing,Team
-,,,,,,Italy,7 G 4 S 3 B,19,,,Fencing,Team
-,,,,,,Turkey,,5,,,Sailing,Team
-,,,,,,People's Republic of China,1 S 1 B,5,,,Beach Volleyball,Team
-,,,,,,Serbia,,3,,,Tennis,Team
-,,,,,,"Hong Kong, China",,1,,,Rowing,Team
-,,,,,,Argentina,1 G 1 B,7,,,Basketball,Team
-,,,,,,Great Britain,1 S 1 B,5,,,Diving,Team
-,,,,,,People's Republic of China,,11,,,Basketball,Team
-,,,,,,Canada,1 B,5,,,Beach Volleyball,Team
-,,,,,,Italy,,4,,,Tennis,Team
-,,,,,,Belgium,,1,,,Swimming,Team
-,,,,,,Thailand,,5,,,Badminton,Team
-,,,,,,France,,1,,,Table Tennis,Team
-,,,,,,Germany,1 G 1 S,2,,,Equestrian Dressage,Team
-,,,,,,Slovakia,,1,,,Canoe Sprint,Team
-,,,,,,Hungary,1 G,1,,,Canoe Sprint,Team
-,,,,,,Portugal,,2,,,Table Tennis,Team
-,,,,,,Argentina,,1,,,Canoe Sprint,Team
-,,,,,,Japan,,1,,,Sailing,Team
-,,,,,,Germany,1 S,3,,,Table Tennis,Team
-,,,,,,France,1 B,1,,,Canoe Slalom,Team
-,,,,,,Hungary,,1,,,Canoe Sprint,Team
-,,,,,,France,,2,,,Fencing,Team
-,,,,,,Switzerland,1 S,6,,,Tennis,Team
-,,,,,,Great Britain,1 S,5,,,Rowing,Team
-,,,,,,Germany,1 G,1,,,Canoe Sprint,Team
-,,,,,,Canada,,4,,,Volleyball,Team
-,,,,,,New Zealand,1 G 1 S,2,,,Sailing,Team
-,,,,,,Venezuela,,2,,,Fencing,Team
-,,,,,,Russian Federation,1 S,1,,,Cycling Track,Team
-,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
-,,,,,,Brazil,1 G,1,,,Sailing,Team
-,,,,,,Spain,,1,,,Sailing,Team
-,,,,,,Australia,1 G,1,,,Rugby,Team
-,,,,,,Indonesia,,7,,,Badminton,Team
-,,,,,,Jamaica,4 S 1 B,9,,,Athletics,Team
-,,,,,,Hungary,,6,,,Rowing,Team
-,,,,,,Great Britain,1 G 1 S,5,,,Rowing,Team
-,,,,,,France,2 S 2 B,4,,,Cycling Track,Team
-,,,,,,Lithuania,,2,,,Swimming,Team
-,,,,,,People's Republic of China,,1,,,Canoe Sprint,Team
-,,,,,,United States of America,5 G 1 B,6,,,Swimming,Team
-,,,,,,Great Britain,1 S,2,,,Equestrian Eventing,Team
-,,,,,,Great Britain,,6,,,Swimming,Team
-,,,,,,South Africa,,2,,,Football,Team
-,,,,,,Czech Republic,,2,,,Rowing,Team
-,,,,,,Germany,1 G,5,,,Gymnastics Artistic,Team
-,,,,,,South Africa,,4,,,Rowing,Team
-,,,,,,Ukraine,,1,,,Canoe Sprint,Team
-,,,,,,Australia,,5,,,Athletics,Team
-,,,,,,Argentina,1 G 2 S,7,,,Football,Team
-,,,,,,Mexico,1 S 1 B,5,,,Diving,Team
-,,,,,,Germany,1 S,7,,,Rowing,Team
-,,,,,,Russian Federation,1 G 1 S 1 B,6,,,Gymnastics Artistic,Team
-,,,,,,Argentina,,2,,,Synchronized Swimming,Team
-,,,,,,Czech Republic,1 B,2,,,Tennis,Team
-,,,,,,Argentina,,1,,,Sailing,Team
-,,,,,,Brazil,,2,,,Swimming,Team
-,,,,,,Canada,,4,,,Beach Volleyball,Team
-,,,,,,Egypt,,6,,,Handball,Team
-,,,,,,Austria,,3,,,Table Tennis,Team
-,,,,,,Germany,1 B,4,,,Diving,Team
-,,,,,,Great Britain,,1,,,Sailing,Team
-,,,,,,Croatia,1 G,3,,,Rowing,Team
-,,,,,,Hungary,9 G 3 S 3 B,22,,,Water Polo,Team
-,,,,,,New Zealand,1 G 2 S,7,,,Sailing,Team
-,,,,,,Great Britain,4 S,10,,,Sailing,Team
-,,,,,,Netherlands,1 B,6,,,Swimming,Team
-,,,,,,Australia,,4,,,Badminton,Team
-,,,,,,Great Britain,,1,,,Canoe Sprint,Team
-,,,,,,Italy,,5,,,Volleyball,Team
-,,,,,,Romania,1 G,2,,,Fencing,Team
-,,,,,,Aruba,,1,,,Sailing,Team
-,,,,,,Spain,,2,,,Sailing,Team
-,,,,,,Poland,,7,,,Rowing,Team
-,,,,,,Cuba,,5,,,Rowing,Team
-,,,,,,United States of America,2 S,2,,,Cycling Track,Team
-,,,,,,Russian Federation,1 S,6,,,Swimming,Team
-,,,,,,Spain,,1,,,Rugby,Team
-,,,,,,South Africa,,5,,,Swimming,Team
-,,,,,,People's Republic of China,1 S 1 B,8,,,Basketball,Team
-,,,,,,Canada,1 G 2 S 2 B,7,,,Athletics,Team
-,,,,,,Germany,1 G 1 S 1 B,7,,,Handball,Team
-,,,,,,Germany,1 S,1,,,Canoe Sprint,Team
-,,,,,,Chile,,1,,,Sailing,Team
-,,,,,,Australia,1 G 3 S 1 B,6,,,Swimming,Team
-,,,,,,Brazil,,1,,,Rugby,Team
-,,,,,,Poland,1 S,3,,,Rowing,Team
-,,,,,,Ukraine,,1,,,Archery,Team
-,,,,,,France,,1,,,Archery,Team
-,,,,,,South Africa,,1,,,Rowing,Team
-,,,,,,Hungary,2 S 2 B,14,,,Swimming,Team
-,,,,,,India,8 G 1 S 2 B,20,,,Hockey,Team
-,,,,,,Brazil,1 B,7,,,Sailing,Team
-,,,,,,Nigeria,,2,,,Table Tennis,Team
-,,,,,,Chinese Taipei,,4,,,Tennis,Team
-,,,,,,Trinidad and Tobago,,3,,,Athletics,Team
-,,,,,,Croatia,,2,,,Sailing,Team
-,,,,,,Switzerland,,1,,,Sailing,Team
-,,,,,,France,,2,,,Football,Team
-,,,,,,Brazil,,1,,,Fencing,Team
-,,,,,,Republic of Korea,1 G 2 S 3 B,7,,,Badminton,Team
-,,,,,,Japan,2 G 3 S 3 B,14,,,Gymnastics Artistic,Team
-,,,,,,Croatia,2 B,6,,,Tennis,Team
-,,,,,,Czech Republic,,1,,,Canoe Sprint,Team
-,,,,,,Argentina,,1,,,Sailing,Team
-,,,,,,Romania,,1,,,Swimming,Team
-,,,,,,Japan,,1,,,Rugby,Team
-,,,,,,Australia,1 B,1,,,Swimming,Team
-,,,,,,Canada,3 B,12,,,Swimming,Team
-,,,,,,United States of America,11 G 2 S 2 B,23,,,Rowing,Team
-,,,,,,Brazil,3 B,15,,,Basketball,Team
-,,,,,,Republic of Korea,,8,,,Sailing,Team
-,,,,,,Australia,2 G,8,,,Sailing,Team
-,,,,,,United States of America,2 B,2,,,Fencing,Team
-,,,,,,Russian Federation,,3,,,Beach Volleyball,Team
-,,,,,,Republic of Korea,1 S 1 B,3,,,Table Tennis,Team
-,,,,,,People's Republic of China,,6,,,Sailing,Team
-,,,,,,Poland,,1,,,Canoe Sprint,Team
-,,,,,,Australia,3 G,8,,,Hockey,Team
-,,,,,,Australia,2 G 3 S 2 B,12,,,Cycling Track,Team
-,,,,,,United States of America,,9,,,Rowing,Team
-,,,,,,Germany,1 G 1 B,2,,,Cycling Track,Team
-,,,,,,Kenya,,1,,,Rugby,Team
-,,,,,,People's Republic of China,2 B,9,,,Swimming,Team
-,,,,,,Brazil,,8,,,Water Polo,Team
-,,,,,,Brazil,,2,,,Table Tennis,Team
-,,,,,,Australia,1 B,1,,,Canoe Sprint,Team
-,,,,,,Mexico,,3,,,Diving,Team
-,,,,,,Denmark,1 S,9,,,Swimming,Team
-,,,,,,Lithuania,,1,,,Rowing,Team
-,,,,,,Ukraine,,2,,,Equestrian Jumping,Team
-,,,,,,"Hong Kong, China",,3,,,Table Tennis,Team
-,,,,,,Brazil,,1,,,Canoe Sprint,Team
-,,,,,,United States of America,,1,,,Gymnastics Rhythmic,Team
-,,,,,,Italy,,1,,,Swimming,Team
-,,,,,,Belgium,,4,,,Athletics,Team
-,,,,,,Romania,,4,,,Handball,Team
-,,,,,,Switzerland,,3,,,Swimming,Team
-,,,,,,France,,4,,,Rowing,Team
-,,,,,,Germany,1 G,1,,,Canoe Sprint,Team
-,,,,,,New Zealand,,1,,,Sailing,Team
-,,,,,,Greece,,1,,,Swimming,Team
-,,,,,,Indonesia,1 G 2 S,6,,,Badminton,Team
-,,,,,,Brazil,1 S 1 B,7,,,Basketball,Team
-,,,,,,Germany,1 G,11,,,Gymnastics Artistic,Team
-,,,,,,Canada,1 B,4,,,Diving,Team
-,,,,,,Australia,,6,,,Badminton,Team
-,,,,,,People's Republic of China,5 G 3 S 4 B,7,,,Badminton,Team
-,,,,,,United States of America,4 G 1 S 4 B,10,,,Tennis,Team
-,,,,,,Spain,1 G,1,,,Canoe Sprint,Team
-,,,,,,Brazil,,1,,,Tennis,Team
-,,,,,,Italy,1 G 1 S,4,,,Water Polo,Team
-,,,,,,Japan,1 S,8,,,Sailing,Team
-,,,,,,Poland,,2,,,Tennis,Team
-,,,,,,Republic of Korea,1 B,3,,,Table Tennis,Team
-,,,,,,Great Britain,2 G 1 S 1 B,10,,,Tennis,Team
-,,,,,,Spain,,4,,,Swimming,Team
-,,,,,,Denmark,3 S 1 B,9,,,Football,Team
-,,,,,,Sweden,,2,,,Equestrian Eventing,Team
-,,,,,,Colombia,,1,,,Rugby,Team
-,,,,,,Netherlands,,1,,,Archery,Team
-,,,,,,Mozambique,,1,,,Canoe Sprint,Team
-,,,,,,Austria,,2,,,Rowing,Team
-,,,,,,United States of America,3 G 2 B,11,,,Volleyball,Team
-,,,,,,People's Republic of China,2 S 1 B,6,,,Synchronized Swimming,Team
-,,,,,,Canada,2 B,2,,,Cycling Track,Team
-,,,,,,Hungary,,1,,,Canoe Sprint,Team
-,,,,,,France,1 S,5,,,Handball,Team
-,,,,,,Ireland,,1,,,Sailing,Team
-,,,,,,Japan,,1,,,Equestrian Dressage,Team
-,,,,,,United States of America,1 S 1 B,5,,,Diving,Team
-,,,,,,Switzerland,,1,,,Sailing,Team
-,,,,,,Colombia,,1,,,Archery,Team
-,,,,,,Japan,,1,,,Swimming,Team
-,,,,,,Italy,,1,,,Fencing,Team
-,,,,,,Republic of Korea,2 G 3 S 1 B,9,,,Handball,Team
-,,,,,,Bulgaria,,6,,,Rowing,Team
-,,,,,,Germany,,3,,,Tennis,Team
-,,,,,,Great Britain,,4,,,Synchronized Swimming,Team
-,,,,,,Russian Federation,,3,,,Badminton,Team
-,,,,,,Russian Federation,,1,,,Swimming,Team
-,,,,,,Brazil,1 S,1,,,Canoe Sprint,Team
-,,,,,,Poland,,1,,,Table Tennis,Team
-,,,,,,Canada,3 S 2 B,13,,,Swimming,Team
-,,,,,,Sweden,,2,,,Equestrian Dressage,Team
-,,,,,,Italy,,1,,,Canoe Sprint,Team
-,,,,,,France,1 B,5,,,Rowing,Team
-,,,,,,Belarus,,1,,,Rowing,Team
-,,,,,,Australia,,4,,,Synchronized Swimming,Team
-,,,,,,Netherlands,1 S,1,,,Rowing,Team
-,,,,,,Australia,,4,,,Cycling Track,Team
-,,,,,,United States of America,,1,,,Badminton,Team
-,,,,,,Singapore,,1,,,Sailing,Team
-,,,,,,Ukraine,1 B,2,,,Athletics,Team
-,,,,,,France,7 G 5 S 4 B,21,,,Fencing,Team
-,,,,,,New Zealand,1 G 1 B,6,,,Rowing,Team
-,,,,,,Bahamas,1 G 1 S 2 B,6,,,Athletics,Team
-,,,,,,Italy,7 G 3 S 1 B,19,,,Cycling Track,Team
-,,,,,,Spain,,2,,,Equestrian Dressage,Team
-,,,,,,People's Republic of China,1 S 1 B,7,,,Rowing,Team
-,,,,,,United States of America,,1,,,Rugby,Team
-,,,,,,Portugal,,1,,,Canoe Sprint,Team
-,,,,,,Netherlands,1 G 1 S 2 B,9,,,Rowing,Team
-,,,,,,France,,1,,,Rugby,Team
-,,,,,,Austria,,3,,,Sailing,Team
-,,,,,,South Africa,,2,,,Rowing,Team
-,,,,,,Croatia,2 G 1 B,5,,,Handball,Team
-,,,,,,United States of America,1 G 3 S 1 B,10,,,Sailing,Team
-,,,,,,People's Republic of China,3 G 1 S 3 B,6,,,Badminton,Team
-,,,,,,Croatia,1 G 2 S,6,,,Water Polo,Team
-,,,,,,Italy,,9,,,Swimming,Team
-,,,,,,Netherlands,,5,,,Tennis,Team
-,,,,,,Finland,,3,,,Swimming,Team
-,,,,,,Czech Republic,1 B,1,,,Canoe Sprint,Team
-,,,,,,Mexico,,1,,,Fencing,Team
-,,,,,,Great Britain,2 G 3 S 2 B,17,,,Athletics,Team
-,,,,,,People's Republic of China,1 G 1 B,7,,,Tennis,Team
-,,,,,,Brazil,1 S,5,,,Football,Team
-,,,,,,United States of America,1 G,1,,,Swimming,Team
-,,,,,,France,2 G 1 S 1 B,7,,,Handball,Team
-,,,,,,Italy,,5,,,Beach Volleyball,Team
-,,,,,,Tunisia,,5,,,Handball,Team
-,,,,,,Sweden,,2,,,Equestrian Jumping,Team
-,,,,,,Sweden,,1,,,Sailing,Team
-,,,,,,Poland,,2,,,Sailing,Team
-,,,,,,Italy,,2,,,Athletics,Team
-,,,,,,France,,1,,,Canoe Sprint,Team
-,,,,,,Poland,2 G,4,,,Rowing,Team
-,,,,,,United States of America,1 G 2 S 1 B,17,,,Gymnastics Artistic,Team
-,,,,,,Egypt,,1,,,Beach Volleyball,Team
-,,,,,,Poland,,1,,,Beach Volleyball,Team
-,,,,,,Netherlands,,2,,,Equestrian Eventing,Team
-,,,,,,Belarus,,4,,,Tennis,Team
-,,,,,,Brazil,,1,,,Diving,Team
-,,,,,,Italy,2 B,11,,,Rowing,Team
-,,,,,,Great Britain,2 G 6 S 1 B,19,,,Rowing,Team
-,,,,,,Angola,,1,,,Rowing,Team
-,,,,,,Algeria,,2,,,Football,Team
-,,,,,,Netherlands,,5,,,Badminton,Team
-,,,,,,Australia,,16,,,Water Polo,Team
-,,,,,,Slovenia,,3,,,Swimming,Team
-,,,,,,Russian Federation,2 G 1 B,5,,,Fencing,Team
-,,,,,,Spain,2 G 1 S,11,,,Sailing,Team
-,,,,,,Germany,3 G 1 S,9,,,Cycling Track,Team
-,,,,,,People's Republic of China,,4,,,Hockey,Team
-,,,,,,Republic of Korea,,7,,,Fencing,Team
-,,,,,,Israel,,6,,,Sailing,Team
-,,,,,,Brazil,,2,,,Fencing,Team
-,,,,,,France,1 G 2 S 1 B,11,,,Rowing,Team
-,,,,,,Germany,,1,,,Gymnastics Rhythmic,Team
-,,,,,,Australia,1 S,1,,,Rowing,Team
-,,,,,,Denmark,,2,,,Equestrian Dressage,Team
-,,,,,,Italy,,2,,,Sailing,Team
-,,,,,,Switzerland,,1,,,Canoe Slalom,Team
-,,,,,,Russian Federation,,1,,,Canoe Slalom,Team
-,,,,,,Malaysia,,2,,,Diving,Team
-,,,,,,Russian Federation,5 G,5,,,Synchronized Swimming,Team
-,,,,,,Romania,1 S,7,,,Tennis,Team
-,,,,,,Nigeria,1 G 1 B,6,,,Football,Team
-,,,,,,Japan,,6,,,Rowing,Team
-,,,,,,Brazil,,1,,,Synchronized Swimming,Team
-,,,,,,Great Britain,4 B,11,,,Athletics,Team
-,,,,,,Italy,,9,,,Tennis,Team
-,,,,,,Brazil,,7,,,Tennis,Team
-,,,,,,Italy,,4,,,Synchronized Swimming,Team
-,,,,,,United States of America,1 B,3,,,Fencing,Team
-,,,,,,Poland,,1,,,Canoe Slalom,Team
-,,,,,,Great Britain,1 S,1,,,Rugby,Team
-,,,,,,Brazil,,1,,,Diving,Team
-,,,,,,Fiji,,1,,,Rugby,Team
-,,,,,,Germany,1 G 1 S 1 B,6,,,Hockey,Team
-,,,,,,Canada,1 G 1 S,9,,,Rowing,Team
-,,,,,,Denmark,1 S,7,,,Badminton,Team
-,,,,,,Tunisia,,1,,,Rowing,Team
-,,,,,,Netherlands,,6,,,Rowing,Team
-,,,,,,Switzerland,,4,,,Beach Volleyball,Team
-,,,,,,Poland,,1,,,Rowing,Team
-,,,,,,Switzerland,,6,,,Synchronized Swimming,Team
-,,,,,,People's Republic of China,1 S 1 B,6,,,Synchronized Swimming,Team
-,,,,,,Nigeria,,2,,,Basketball,Team
-,,,,,,People's Republic of China,3 G,3,,,Table Tennis,Team
-,,,,,,India,,1,,,Athletics,Team
-,,,,,,New Zealand,,1,,,Rowing,Team
-,,,,,,Russian Federation,1 G 1 S,3,,,Handball,Team
-,,,,,,Argentina,1 G,11,,,Hockey,Team
-,,,,,,Germany,1 G,6,,,Beach Volleyball,Team
-,,,,,,Ireland,,1,,,Hockey,Team
-,,,,,,Israel,,1,,,Gymnastics Rhythmic,Team
-,,,,,,France,,1,,,Rugby,Team
-,,,,,,Germany,,1,,,Canoe Sprint,Team
-,,,,,,Netherlands,,3,,,Cycling Track,Team
-,,,,,,Italy,,6,,,Synchronized Swimming,Team
-,,,,,,Argentina,1 B,7,,,Volleyball,Team
-,,,,,,South Africa,1 S 1 B,5,,,Rowing,Team
-,,,,,,India,,2,,,Hockey,Team
-,,,,,,Belarus,,1,,,Gymnastics Rhythmic,Team
-,,,,,,Ukraine,,3,,,Fencing,Team
-,,,,,,Canada,,2,,,Equestrian Jumping,Team
-,,,,,,France,1 B,10,,,Tennis,Team
-,,,,,,Germany,,5,,,Badminton,Team
-,,,,,,Italy,3 G 2 S 3 B,20,,,Water Polo,Team
-,,,,,,Austria,,2,,,Sailing,Team
-,,,,,,India,,2,,,Badminton,Team
-,,,,,,Qatar,,1,,,Equestrian Jumping,Team
-,,,,,,Czech Republic,,3,,,Rowing,Team
-,,,,,,Indonesia,3 G 1 S 2 B,7,,,Badminton,Team
-,,,,,,Thailand,,4,,,Badminton,Team
-,,,,,,Japan,2 S,7,,,Athletics,Team
-,,,,,,Serbia,,1,,,Canoe Sprint,Team
-,,,,,,Canada,1 S,6,,,Synchronized Swimming,Team
-,,,,,,Ukraine,,1,,,Tennis,Team
-,,,,,,United States of America,,3,,,Table Tennis,Team
-,,,,,,Austria,,5,,,Sailing,Team
-,,,,,,Japan,,1,,,Archery,Team
-,,,,,,Estonia,,2,,,Fencing,Team
-,,,,,,Serbia,,1,,,Canoe Sprint,Team
-,,,,,,Russian Federation,4 S 1 B,6,,,Gymnastics Artistic,Team
-,,,,,,Hungary,,6,,,Tennis,Team
-,,,,,,Norway,2 G 2 S 2 B,7,,,Handball,Team
-,,,,,,Serbia,,3,,,Rowing,Team
-,,,,,,Spain,1 G,5,,,Hockey,Team
-,,,,,,United States of America,1 G 1 B,6,,,Synchronized Swimming,Team
-,,,,,,Chinese Taipei,,2,,,Table Tennis,Team
-,,,,,,Democratic People's Republic of Korea,,2,,,Diving,Team
-,,,,,,Ukraine,,1,,,Synchronized Swimming,Team
-,,,,,,Montenegro,,3,,,Water Polo,Team
-,,,,,,Australia,,3,,,Football,Team
-,,,,,,New Zealand,1 G,11,,,Hockey,Team
-,,,,,,Poland,,3,,,Athletics,Team
-,,,,,,Australia,,3,,,Table Tennis,Team
-,,,,,,Australia,2 G 1 B,9,,,Rowing,Team
-,,,,,,Mexico,1 G,12,,,Football,Team
-,,,,,,Great Britain,2 S 6 B,13,,,Athletics,Team
-,,,,,,Cuba,,5,,,Rowing,Team
-,,,,,,Japan,1 B,9,,,Football,Team
-,,,,,,Japan,2 G 3 S 2 B,12,,,Swimming,Team
-,,,,,,Finland,1 B,10,,,Sailing,Team
-,,,,,,Denmark,,1,,,Rowing,Team
-,,,,,,Japan,,6,,,Rowing,Team
-,,,,,,Romania,,2,,,Table Tennis,Team
-,,,,,,Denmark,,1,,,Canoe Sprint,Team
-,,,,,,Great Britain,,1,,,Rugby,Team
-,,,,,,Australia,,1,,,Canoe Sprint,Team
-,,,,,,Venezuela,,2,,,Basketball,Team
-,,,,,,Slovakia,,3,,,Synchronized Swimming,Team
-,,,,,,Kazakhstan,,5,,,Synchronized Swimming,Team
-,,,,,,Ukraine,,1,,,Rowing,Team
-,,,,,,Russian Federation,1 S,4,,,Fencing,Team
-,,,,,,Serbia,1 S,1,,,Basketball,Team
-,,,,,,Australia,1 G 1 B,6,,,Beach Volleyball,Team
-,,,,,,Austria,,4,,,Synchronized Swimming,Team
-,,,,,,South Africa,,2,,,Football,Team
-,,,,,,Brazil,,2,,,Swimming,Team
-,,,,,,United States of America,2 G 2 S 1 B,5,,,Water Polo,Team
-,,,,,,Sweden,1 S 3 B,20,,,Swimming,Team
-,,,,,,Angola,,2,,,Sailing,Team
-,,,,,,Spain,1 G 1 S 1 B,10,,,Tennis,Team
-,,,,,,Canada,1 G 2 S 1 B,9,,,Rowing,Team
-,,,,,,Honduras,,3,,,Football,Team
-,,,,,,Denmark,2 B,6,,,Badminton,Team
-,,,,,,Sweden,4 S,8,,,Handball,Team
-,,,,,,Netherlands,1 S 1 B,17,,,Cycling Track,Team
-,,,,,,Switzerland,1 G,3,,,Rowing,Team
-,,,,,,Turkey,,1,,,Rowing,Team
-,,,,,,Australia,1 G 2 B,5,,,Water Polo,Team
-,,,,,,Republic of Korea,1 G,1,,,Archery,Team
-,,,,,,Italy,,2,,,Diving,Team
-,,,,,,Italy,1 S,3,,,Diving,Team
-,,,,,,Brazil,,1,,,Sailing,Team
-,,,,,,Russian Federation,,1,,,Canoe Sprint,Team
-,,,,,,Italy,,9,,,Swimming,Team
-,,,,,,Denmark,3 G 1 S 2 B,6,,,Rowing,Team
-,,,,,,Sweden,,11,,,Sailing,Team
-,,,,,,Mexico,,1,,,Archery,Team
-,,,,,,Poland,1 B,1,,,Rowing,Team
-,,,,,,Denmark,1 B,1,,,Rowing,Team
-,,,,,,New Zealand,2 B,9,,,Cycling Track,Team
-,,,,,,Argentina,2 S 1 B,6,,,Hockey,Team
-,,,,,,Serbia,,1,,,Tennis,Team
-,,,,,,Australia,2 B,5,,,Diving,Team
-,,,,,,Great Britain,1 G,2,,,Equestrian Jumping,Team
-,,,,,,United States of America,17 G 5 S 2 B,24,,,Swimming,Team
-,,,,,,Great Britain,1 B,5,,,Badminton,Team
-,,,,,,Russian Federation,,6,,,Sailing,Team
-,,,,,,Brazil,,3,,,Table Tennis,Team
-,,,,,,Japan,1 S,3,,,Table Tennis,Team
-,,,,,,Romania,,1,,,Tennis,Team
-,,,,,,Argentina,,2,,,Beach Volleyball,Team
-,,,,,,Japan,,3,,,Hockey,Team
-,,,,,,Mexico,,6,,,Tennis,Team
-,,,,,,Great Britain,3 G 2 S 4 B,17,,,Hockey,Team
-,,,,,,United States of America,7 G,9,,,Tennis,Team
-,,,,,,Germany,1 S 1 B,13,,,Swimming,Team
-,,,,,,Russian Federation,,3,,,Sailing,Team
-,,,,,,Republic of Korea,1 B,11,,,Volleyball,Team
-,,,,,,Japan,1 G 1 S,7,,,Badminton,Team
-,,,,,,United States of America,2 G 2 S 1 B,4,,,Tennis,Team
-,,,,,,New Zealand,,6,,,Hockey,Team
-,,,,,,Spain,,1,,,Sailing,Team
-,,,,,,Cuba,,1,,,Canoe Sprint,Team
-,,,,,,Brazil,,6,,,Synchronized Swimming,Team
-,,,,,,Argentina,,1,,,Equestrian Jumping,Team
-,,,,,,France,1 S 2 B,14,,,Swimming,Team
-,,,,,,France,1 G 2 B,11,,,Water Polo,Team
-,,,,,,Great Britain,2 G 1 S,10,,,Rowing,Team
-,,,,,,Serbia,1 S,1,,,Canoe Sprint,Team
-,,,,,,Netherlands,,1,,,Sailing,Team
-,,,,,,France,1 S,1,,,Swimming,Team
-,,,,,,Italy,,1,,,Cycling Track,Team
-,,,,,,Great Britain,,1,,,Sailing,Team
-,,,,,,Hungary,3 G 2 S 1 B,15,,,Fencing,Team
-,,,,,,People's Republic of China,2 S,8,,,Fencing,Team
-,,,,,,Ukraine,1 G 1 S,2,,,Fencing,Team
-,,,,,,Venezuela,,1,,,Beach Volleyball,Team
-,,,,,,People's Republic of China,2 S,6,,,Swimming,Team
-,,,,,,Netherlands,,5,,,Rowing,Team
-,,,,,,Spain,,2,,,Beach Volleyball,Team
-,,,,,,France,2 S 2 B,12,,,Rowing,Team
-,,,,,,Qatar,,1,,,Beach Volleyball,Team
-,,,,,,Russian Federation,1 S,1,,,Archery,Team
-,,,,,,People's Republic of China,2 G 1 S 1 B,7,,,Badminton,Team
-,,,,,,Germany,2 S 1 B,7,,,Swimming,Team
-,,,,,,Brazil,3 G 3 S,14,,,Volleyball,Team
-,,,,,,Fiji,,1,,,Football,Team
-,,,,,,Great Britain,,6,,,Badminton,Team
-,,,,,,Germany,2 G 1 S 4 B,13,,,Hockey,Team
-,,,,,,Egypt,,3,,,Synchronized Swimming,Team
-,,,,,,Great Britain,1 G 1 S,2,,,Equestrian Dressage,Team
-,,,,,,United States of America,3 G 3 S 3 B,17,,,Gymnastics Artistic,Team
-,,,,,,Cuba,1 S,3,,,Athletics,Team
-,,,,,,Czech Republic,,1,,,Canoe Slalom,Team
-,,,,,,Italy,,1,,,Sailing,Team
-,,,,,,Russian Federation,1 G 1 S 2 B,6,,,Volleyball,Team
-,,,,,,Brazil,,1,,,Fencing,Team
-,,,,,,Canada,1 S,4,,,Athletics,Team
-,,,,,,United States of America,,1,,,Rowing,Team
-,,,,,,Germany,1 S,1,,,Canoe Sprint,Team
-,,,,,,Japan,,2,,,Sailing,Team
-,,,,,,Lithuania,1 B,1,,,Canoe Sprint,Team
-,,,,,,France,9 G 3 S 4 B,21,,,Fencing,Team
-,,,,,,Canada,,6,,,Tennis,Team
-,,,,,,Netherlands,,6,,,Beach Volleyball,Team
-,,,,,,France,,1,,,Sailing,Team
-,,,,,,Great Britain,5 G 1 S 2 B,17,,,Rowing,Team
-,,,,,,Croatia,1 G,6,,,Sailing,Team
-,,,,,,France,,1,,,Canoe Sprint,Team
-,,,,,,Singapore,,1,,,Sailing,Team
-,,,,,,France,1 B,6,,,Synchronized Swimming,Team
-,,,,,,People's Republic of China,,7,,,Swimming,Team
-,,,,,,Mexico,,2,,,Volleyball,Team
-,,,,,,Canada,,1,,,Swimming,Team
-,,,,,,Netherlands,2 G 1 B,6,,,Rowing,Team
-,,,,,,Great Britain,1 G,4,,,Rowing,Team
-,,,,,,Singapore,,2,,,Sailing,Team
-,,,,,,Brazil,,1,,,Equestrian Dressage,Team
-,,,,,,United States of America,,1,,,Canoe Slalom,Team
-,,,,,,Australia,1 G 3 S 5 B,14,,,Swimming,Team
-,,,,,,South Africa,,6,,,Swimming,Team
-,,,,,,Great Britain,1 S,1,,,Canoe Sprint,Team
-,,,,,,Cuba,,3,,,Rowing,Team
-,,,,,,Tunisia,,1,,,Beach Volleyball,Team
-,,,,,,Brazil,,1,,,Archery,Team
-,,,,,,Republic of Korea,,1,,,Cycling Track,Team
-,,,,,,Chile,,1,,,Rowing,Team
-,,,,,,Jamaica,1 G 3 S 1 B,8,,,Athletics,Team
-,,,,,,United States of America,17 G 3 S,22,,,Athletics,Team
-,,,,,,Australia,1 S,7,,,Rowing,Team
-,,,,,,Brazil,1 G,10,,,Sailing,Team
-,,,,,,Great Britain,8 G 2 S 2 B,19,,,Rowing,Team
-,,,,,,"Hong Kong, China",,4,,,Rowing,Team
-,,,,,,Spain,1 S,6,,,Beach Volleyball,Team
-,,,,,,France,1 G 1 S 2 B,16,,,Rowing,Team
-,,,,,,Brazil,,2,,,Equestrian Eventing,Team
-,,,,,,Italy,,2,,,Rowing,Team
-,,,,,,Germany,1 G 1 S,2,,,Equestrian Eventing,Team
-,,,,,,Brazil,,4,,,Tennis,Team
-,,,,,,United States of America,,1,,,Sailing,Team
-,,,,,,Poland,,3,,,Badminton,Team
-,,,,,,South Africa,,1,,,Rowing,Team
-,,,,,,United States of America,1 S,1,,,Archery,Team
-,,,,,,Italy,,5,,,Swimming,Team
-,,,,,,Netherlands,,4,,,Badminton,Team
-,,,,,,People's Republic of China,,1,,,Gymnastics Rhythmic,Team
-,,,,,,France,,1,,,Equestrian Dressage,Team
-,,,,,,Germany,1 G,1,,,Rowing,Team
-,,,,,,Australia,,2,,,Equestrian Dressage,Team
-,,,,,,United States of America,1 G 5 S 3 B,17,,,Rowing,Team
-,,,,,,"Hong Kong, China",,4,,,Badminton,Team
-,,,,,,Netherlands,,1,,,Sailing,Team
-,,,,,,Sweden,,1,,,Canoe Sprint,Team
-,,,,,,Sweden,,3,,,Handball,Team
-,,,,,,Italy,,8,,,Sailing,Team
-,,,,,,Japan,,8,,,Swimming,Team
-,,,,,,South Africa,1 B,1,,,Rugby,Team
-,,,,,,Poland,1 G,9,,,Volleyball,Team
-,,,,,,Canada,1 S 1 B,5,,,Rowing,Team
-,,,,,,People's Republic of China,5 G,5,,,Diving,Team
-,,,,,,United States of America,3 S 2 B,11,,,Volleyball,Team
-,,,,,,Lithuania,1 S,2,,,Rowing,Team
-,,,,,,Poland,,5,,,Badminton,Team
-,,,,,,Chinese Taipei,,2,,,Badminton,Team
-,,,,,,Italy,1 G 2 S 5 B,18,,,Rowing,Team
-,,,,,,Belarus,,1,,,Canoe Sprint,Team
-,,,,,,People's Republic of China,3 G 1 B,5,,,Diving,Team
-,,,,,,Australia,1 B,2,,,Cycling Track,Team
-,,,,,,United States of America,,2,,,Equestrian Eventing,Team
-,,,,,,Bulgaria,1 B,1,,,Gymnastics Rhythmic,Team
-,,,,,,Malaysia,1 S,2,,,Badminton,Team
-,,,,,,Latvia,1 B,3,,,Beach Volleyball,Team
-,,,,,,Czech Republic,,2,,,Swimming,Team
-,,,,,,Poland,,3,,,Rowing,Team
-,,,,,,Netherlands,1 B,2,,,Equestrian Dressage,Team
-,,,,,,Trinidad and Tobago,2 B,8,,,Athletics,Team
-,,,,,,Malaysia,2 S 1 B,7,,,Badminton,Team
-,,,,,,Belarus,,3,,,Rowing,Team
-,,,,,,Spain,1 G 1 S,17,,,Water Polo,Team
-,,,,,,Chile,,1,,,Sailing,Team
-,,,,,,Ukraine,,2,,,Fencing,Team
-,,,,,,Thailand,,1,,,Tennis,Team
-,,,,,,Spain,3 S 1 B,12,,,Basketball,Team
-,,,,,,United States of America,1 B,6,,,Rowing,Team
-,,,,,,Canada,,8,,,Sailing,Team
-,,,,,,Germany,1 B,2,,,Sailing,Team
-,,,,,,Poland,,5,,,Tennis,Team
-,,,,,,Great Britain,2 G,2,,,Cycling Track,Team
-,,,,,,Italy,1 S,5,,,Beach Volleyball,Team
-,,,,,,Australia,1 B,2,,,Equestrian Eventing,Team
-,,,,,,Bulgaria,,5,,,Badminton,Team
-,,,,,,Belarus,1 B,1,,,Canoe Sprint,Team
-,,,,,,New Zealand,,1,,,Rowing,Team
-,,,,,,Netherlands,1 S,2,,,Equestrian Jumping,Team
-,,,,,,Canada,,1,,,Canoe Sprint,Team
-,,,,,,Hungary,,1,,,Swimming,Team
-,,,,,,Spain,1 S,1,,,Gymnastics Rhythmic,Team
-,,,,,,Portugal,,1,,,Canoe Sprint,Team
-,,,,,,Canada,1 B,5,,,Swimming,Team
-,,,,,,France,1 B,6,,,Swimming,Team
-,,,,,,New Zealand,,1,,,Cycling Track,Team
-,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
-,,,,,,Denmark,1 B,1,,,Sailing,Team
-,,,,,,Belgium,1 B,5,,,Tennis,Team
-,,,,,,Argentina,,2,,,Handball,Team
-,,,,,,Sweden,,4,,,Swimming,Team
-,,,,,,United States of America,14 G 4 S 4 B,22,,,Swimming,Team
-,,,,,,Switzerland,1 S 2 B,10,,,Fencing,Team
-,,,,,,Italy,1 S,6,,,Rowing,Team
-,,,,,,Germany,1 G 2 B,4,,,Football,Team
-,,,,,,Belgium,,1,,,Sailing,Team
-,,,,,,Australia,,1,,,Rugby,Team
-,,,,,,Australia,,1,,,Canoe Sprint,Team
-,,,,,,Poland,,3,,,Table Tennis,Team
-,,,,,,Switzerland,,11,,,Sailing,Team
-,,,,,,Serbia,1 G 2 B,3,,,Water Polo,Team
-,,,,,,Spain,2 G 1 S,8,,,Sailing,Team
-,,,,,,Norway,1 B,3,,,Rowing,Team
-,,,,,,Japan,,7,,,Tennis,Team
-,,,,,,Japan,1 S 3 B,13,,,Swimming,Team
-,,,,,,Spain,2 S,6,,,Synchronized Swimming,Team
-,,,,,,Czech Republic,,4,,,Beach Volleyball,Team
-,,,,,,Denmark,1 G 1 S 2 B,14,,,Cycling Track,Team
-,,,,,,Romania,3 G,4,,,Rowing,Team
-,,,,,,Poland,1 S,8,,,Athletics,Team
-,,,,,,Spain,2 S 1 B,16,,,Hockey,Team
-,,,,,,Japan,,4,,,Swimming,Team
-,,,,,,Greece,,5,,,Synchronized Swimming,Team
-,,,,,,Turkey,,2,,,Basketball,Team
-,,,,,,Brazil,,1,,,Canoe Slalom,Team
-,,,,,,Spain,,1,,,Rugby,Team
-,,,,,,Japan,2 B,13,,,Swimming,Team
-,,,,,,United States of America,8 G 1 S 1 B,10,,,Basketball,Team
-,,,,,,Finland,,1,,,Sailing,Team
-,,,,,,Australia,1 B,1,,,Archery,Team
-,,,,,,Canada,3 B,15,,,Swimming,Team
-,,,,,,Great Britain,1 G 1 S,7,,,Sailing,Team
-,,,,,,Brazil,,1,,,Gymnastics Artistic,Team
-,,,,,,Ireland,1 S,2,,,Rowing,Team
-,,,,,,Austria,,3,,,Table Tennis,Team
-,,,,,,India,,4,,,Tennis,Team
-,,,,,,Brazil,,2,,,Gymnastics Artistic,Team
-,,,,,,Hungary,,1,,,Canoe Sprint,Team
-,,,,,,People's Republic of China,,1,,,Athletics,Team
-,,,,,,Germany,1 G 1 S,10,,,Rowing,Team
-,,,,,,France,,10,,,Swimming,Team
-,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
-,,,,,,France,1 G 2 B,10,,,Sailing,Team
-,,,,,,Australia,,3,,,Table Tennis,Team
-,,,,,,Spain,,4,,,Swimming,Team
-,,,,,,Kazakhstan,,2,,,Tennis,Team
-,,,,,,Brazil,,1,,,Archery,Team
-,,,,,,Islamic Republic of Iran,,1,,,Volleyball,Team
-,,,,,,New Zealand,,1,,,Rowing,Team
-,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
-,,,,,,Russian Federation,,2,,,Rowing,Team
-,,,,,,Canada,,6,,,Basketball,Team
-,,,,,,India,,3,,,Tennis,Team
-,,,,,,Poland,1 B,5,,,Handball,Team
-,,,,,,Egypt,,6,,,Fencing,Team
-,,,,,,Singapore,1 S 1 B,3,,,Table Tennis,Team
-,,,,,,Switzerland,1 G,3,,,Rowing,Team
-,,,,,,People's Republic of China,2 S,8,,,Swimming,Team
-,,,,,,India,,1,,,Archery,Team
-,,,,,,Lithuania,3 B,7,,,Basketball,Team
-,,,,,,Italy,,1,,,Gymnastics Rhythmic,Team
-,,,,,,Germany,2 G 3 S 2 B,10,,,Rowing,Team
-,,,,,,Poland,,4,,,Tennis,Team
-,,,,,,Brazil,,1,,,Sailing,Team
-,,,,,,Germany,,1,,,Canoe Slalom,Team
-,,,,,,Poland,,1,,,Canoe Sprint,Team
-,,,,,,Israel,,9,,,Sailing,Team
-,,,,,,Brazil,2 G 2 B,10,,,Volleyball,Team
-,,,,,,Romania,3 G 3 S 3 B,11,,,Rowing,Team
-,,,,,,Colombia,,2,,,Football,Team
-,,,,,,Chile,,1,,,Rowing,Team
-,,,,,,Germany,1 G 2 B,4,,,Cycling Track,Team
-,,,,,,Russian Federation,,1,,,Canoe Sprint,Team
-,,,,,,Austria,1 B,1,,,Sailing,Team
-,,,,,,United States of America,,1,,,Rugby,Team
-,,,,,,Germany,,1,,,Swimming,Team
-,,,,,,Greece,,1,,,Rowing,Team
-,,,,,,Chinese Taipei,1 B,1,,,Archery,Team
-,,,,,,Brazil,1 G 4 S 2 B,6,,,Beach Volleyball,Team
-,,,,,,Germany,2 S,6,,,Rowing,Team
-,,,,,,India,,2,,,Badminton,Team
-,,,,,,Spain,,1,,,Rowing,Team
-,,,,,,United States of America,1 S,2,,,Equestrian Jumping,Team
-,,,,,,People's Republic of China,1 G 2 B,9,,,Gymnastics Artistic,Team
-,,,,,,United States of America,1 S 3 B,15,,,Fencing,Team
-,,,,,,United States of America,7 G 4 S,11,,,Athletics,Team
-,,,,,,Canada,1 G 2 B,9,,,Athletics,Team
-,,,,,,Ukraine,,1,,,Canoe Sprint,Team
-,,,,,,Poland,,4,,,Swimming,Team
-,,,,,,Mexico,,2,,,Beach Volleyball,Team
-,,,,,,Chile,1 G,5,,,Tennis,Team
-,,,,,,Senegal,,2,,,Basketball,Team
-,,,,,,Ukraine,,4,,,Diving,Team
-,,,,,,Australia,,6,,,Rowing,Team
-,,,,,,United States of America,,4,,,Rowing,Team
-,,,,,,Brazil,,5,,,Handball,Team
-,,,,,,New Zealand,1 S,1,,,Sailing,Team
-,,,,,,Austria,,1,,,Canoe Sprint,Team
-,,,,,,Germany,1 G,1,,,Canoe Sprint,Team
-,,,,,,Spain,1 S,2,,,Rowing,Team
-,,,,,,Italy,1 B,16,,,Swimming,Team
-,,,,,,Romania,5 G,11,,,Rowing,Team
-,,,,,,India,,9,,,Tennis,Team
-,,,,,,Germany,,6,,,Rowing,Team
-,,,,,,Germany,1 S 2 B,6,,,Swimming,Team
-,,,,,,Germany,,5,,,Badminton,Team
-,,,,,,Poland,,1,,,Swimming,Team
-,,,,,,Uzbekistan,,1,,,Canoe Sprint,Team
-,,,,,,France,,1,,,Canoe Sprint,Team
-,,,,,,Italy,7 G 5 S 1 B,20,,,Fencing,Team
-,,,,,,People's Republic of China,,5,,,Sailing,Team
-,,,,,,Iraq,,5,,,Football,Team
-,,,,,,Poland,,2,,,Fencing,Team
-,,,,,,United States of America,1 G 4 S 4 B,22,,,Water Polo,Team
-,,,,,,Brazil,1 B,11,,,Swimming,Team
-,,,,,,Hungary,,3,,,Swimming,Team
-,,,,,,Spain,,1,,,Archery,Team
-,,,,,,Chile,,1,,,Beach Volleyball,Team
-,,,,,,Spain,1 S,2,,,Water Polo,Team
-,,,,,,United States of America,,1,,,Sailing,Team
-,,,,,,Slovenia,,3,,,Handball,Team
-,,,,,,United States of America,,2,,,Sailing,Team
-,,,,,,Italy,,1,,,Equestrian Eventing,Team
-,,,,,,Germany,2 S,11,,,Rowing,Team
-,,,,,,United States of America,15 G 1 S 2 B,18,,,Basketball,Team
-,,,,,,Sweden,1 S,5,,,Football,Team
-,,,,,,Great Britain,2 B,12,,,Gymnastics Artistic,Team
-,,,,,,Netherlands,,2,,,Cycling Track,Team
-,,,,,,Germany,,6,,,Badminton,Team
-,,,,,,Brazil,,9,,,Swimming,Team
-,,,,,,Spain,,2,,,Tennis,Team
-,,,,,,France,,1,,,Canoe Sprint,Team
-,,,,,,Australia,1 G 1 S,2,,,Sailing,Team
-,,,,,,New Zealand,1 S 2 B,5,,,Rowing,Team
-,,,,,,Republic of Korea,,1,,,Canoe Sprint,Team
-,,,,,,Japan,,8,,,Water Polo,Team
-,,,,,,Italy,,9,,,Tennis,Team
-,,,,,,Germany,1 S,3,,,Diving,Team
-,,,,,,Brazil,,1,,,Diving,Team
-,,,,,,Russian Federation,,1,,,Canoe Sprint,Team
-,,,,,,Russian Federation,5 G,6,,,Synchronized Swimming,Team
-,,,,,,Netherlands,1 G 1 S 1 B,11,,,Rowing,Team
-,,,,,,United States of America,1 S 1 B,5,,,Diving,Team
-,,,,,,Great Britain,1 S 1 B,14,,,Swimming,Team
-,,,,,,People's Republic of China,,1,,,Cycling Track,Team
-,,,,,,France,1 G 1 B,5,,,Rowing,Team
-,,,,,,Great Britain,1 G 2 S 1 B,8,,,Tennis,Team
-,,,,,,Belgium,,3,,,Swimming,Team
-,,,,,,Cameroon,,1,,,Volleyball,Team
-,,,,,,Slovakia,1 S,1,,,Canoe Sprint,Team
-,,,,,,Netherlands,,1,,,Handball,Team
-,,,,,,Slovenia,,6,,,Sailing,Team
-,,,,,,France,1 S,3,,,Basketball,Team
-,,,,,,Australia,,2,,,Tennis,Team
-,,,,,,Jamaica,1 G 3 S 1 B,9,,,Athletics,Team
-,,,,,,Russian Federation,2 B,5,,,Water Polo,Team
-,,,,,,Germany,2 S 1 B,11,,,Athletics,Team
-,,,,,,Angola,,6,,,Handball,Team
-,,,,,,Russian Federation,,6,,,Swimming,Team
-,,,,,,Japan,2 S 2 B,6,,,Synchronized Swimming,Team
-,,,,,,Russian Federation,1 S,5,,,Swimming,Team
-,,,,,,Botswana,,2,,,Athletics,Team
-,,,,,,Greece,,1,,,Sailing,Team
-,,,,,,Denmark,,4,,,Swimming,Team
-,,,,,,Argentina,1 G,1,,,Sailing,Team
-,,,,,,Republic of Korea,1 B,9,,,Football,Team
-,,,,,,Germany,1 S 1 B,4,,,Diving,Team
-,,,,,,Estonia,1 B,1,,,Rowing,Team
-,,,,,,United States of America,11 G 2 S 2 B,17,,,Athletics,Team
-,,,,,,Belarus,2 B,3,,,Rowing,Team
-,,,,,,France,1 G,2,,,Equestrian Eventing,Team
-,,,,,,Netherlands,,3,,,Table Tennis,Team
-,,,,,,People's Republic of China,,3,,,Rowing,Team
-,,,,,,Czech Republic,2 S 1 B,6,,,Tennis,Team
-,,,,,,Tunisia,,1,,,Sailing,Team
-,,,,,,People's Republic of China,3 G,3,,,Table Tennis,Team
-,,,,,,Greece,,1,,,Rowing,Team
-,,,,,,Canada,1 G 2 S,11,,,Rowing,Team
-,,,,,,Spain,,1,,,Equestrian Jumping,Team
-,,,,,,Great Britain,1 G 2 B,6,,,Hockey,Team
-,,,,,,Portugal,,5,,,Football,Team
-,,,,,,Serbia,,1,,,Canoe Sprint,Team
-,,,,,,Serbia,,1,,,Canoe Sprint,Team
-,,,,,,Great Britain,1 S,8,,,Rowing,Team
-,,,,,,Spain,,1,,,Swimming,Team
-,,,,,,Poland,1 G 1 B,3,,,Rowing,Team
-,,,,,,People's Republic of China,,1,,,Rowing,Team
-,,,,,,Colombia,,2,,,Tennis,Team
-,,,,,,Argentina,2 B,9,,,Sailing,Team
-,,,,,,Great Britain,,11,,,Fencing,Team
-,,,,,,Brazil,,5,,,Handball,Team
-,,,,,,Canada,,1,,,Canoe Sprint,Team
-,,,,,,People's Republic of China,,1,,,Archery,Team
-,,,,,,Japan,2 S 3 B,6,,,Synchronized Swimming,Team
-,,,,,,Czech Republic,,2,,,Rowing,Team
-,,,,,,Canada,2 B,2,,,Football,Team
-,,,,,,India,,3,,,Athletics,Team
-,,,,,,Argentina,1 B,9,,,Tennis,Team
-,,,,,,Slovakia,,5,,,Tennis,Team
-,,,,,,Great Britain,,2,,,Sailing,Team
-,,,,,,Ukraine,1 B,2,,,Athletics,Team
-,,,,,,Greece,,3,,,Rowing,Team
-,,,,,,Italy,3 S 3 B,11,,,Volleyball,Team
-,,,,,,Romania,1 G 1 S,7,,,Rowing,Team
-,,,,,,Chile,,1,,,Sailing,Team
-,,,,,,Zimbabwe,,1,,,Football,Team
-,,,,,,Greece,,1,,,Gymnastics Rhythmic,Team
-,,,,,,Fiji,1 G,1,,,Rugby,Team
-,,,,,,Czech Republic,,1,,,Canoe Sprint,Team
-,,,,,,Russian Federation,2 G 2 B,5,,,Fencing,Team
-,,,,,,Austria,1 S,5,,,Tennis,Team
-,,,,,,Great Britain,1 S,1,,,Canoe Slalom,Team
-,,,,,,Netherlands,1 G,6,,,Gymnastics Artistic,Team
-,,,,,,Germany,,5,,,Rowing,Team
-,,,,,,Great Britain,3 G 2 S 9 B,19,,,Cycling Track,Team
-,,,,,,United States of America,10 G 4 S,14,,,Swimming,Team
-,,,,,,Czech Republic,,6,,,Tennis,Team
-,,,,,,Estonia,,1,,,Sailing,Team
-,,,,,,Ukraine,,4,,,Tennis,Team
-,,,,,,Brazil,,1,,,Diving,Team
-,,,,,,Ukraine,1 S 1 B,5,,,Gymnastics Artistic,Team
-,,,,,,New Zealand,,1,,,Rugby,Team
-,,,,,,Great Britain,1 B,8,,,Gymnastics Artistic,Team
-,,,,,,Republic of Korea,2 G 1 S,6,,,Badminton,Team
-,,,,,,Great Britain,1 S,14,,,Swimming,Team
-,,,,,,Belgium,1 S 1 B,13,,,Hockey,Team
-,,,,,,Great Britain,,2,,,Table Tennis,Team
-,,,,,,Russian Federation,,1,,,Equestrian Eventing,Team
-,,,,,,Montenegro,1 S,2,,,Handball,Team
-,,,,,,Serbia,1 B,1,,,Basketball,Team
-,,,,,,People's Republic of China,3 G 1 S 2 B,9,,,Volleyball,Team
-,,,,,,Azerbaijan,,1,,,Rowing,Team
-,,,,,,Russian Federation,3 S,5,,,Diving,Team
-,,,,,,France,2 S,9,,,Basketball,Team
-,,,,,,Australia,1 S,1,,,Sailing,Team
-,,,,,,Mexico,1 S,2,,,Diving,Team
-,,,,,,Belarus,,4,,,Synchronized Swimming,Team
-,,,,,,Great Britain,,3,,,Diving,Team
-,,,,,,France,,4,,,Volleyball,Team
-,,,,,,Egypt,,5,,,Synchronized Swimming,Team
-,,,,,,Great Britain,,4,,,Diving,Team
-,,,,,,New Zealand,1 S,1,,,Rugby,Team
-,,,,,,Nigeria,1 S 1 B,7,,,Athletics,Team
-,,,,,,France,,7,,,Swimming,Team
-,,,,,,Great Britain,,1,,,Canoe Sprint,Team
-,,,,,,Colombia,,1,,,Synchronized Swimming,Team
-,,,,,,Uzbekistan,,1,,,Gymnastics Rhythmic,Team
-,,,,,,Australia,1 G 3 S 4 B,14,,,Hockey,Team
-,,,,,,Australia,3 G 1 S 1 B,8,,,Sailing,Team
-,,,,,,Democratic People's Republic of Korea,,2,,,Table Tennis,Team
-,,,,,,Chinese Taipei,,1,,,Table Tennis,Team
-,,,,,,Puerto Rico,,1,,,Volleyball,Team
-,,,,,,Georgia,,1,,,Archery,Team
-,,,,,,Argentina,,1,,,Handball,Team
-,,,,,,Netherlands,,5,,,Swimming,Team
-,,,,,,Australia,3 S 2 B,8,,,Basketball,Team
-,,,,,,Poland,,2,,,Sailing,Team
-,,,,,,Australia,2 G 6 S,13,,,Swimming,Team
-,,,,,,Japan,1 S 1 B,3,,,Table Tennis,Team
-,,,,,,France,1 G 1 B,5,,,Tennis,Team
-,,,,,,"Hong Kong, China",,3,,,Table Tennis,Team
-,,,,,,Japan,,1,,,Equestrian Jumping,Team
-,,,,,,Denmark,,1,,,Canoe Sprint,Team
-,,,,,,Poland,,1,,,Swimming,Team
-,,,,,,Colombia,,5,,,Football,Team
-,,,,,,Belarus,,2,,,Basketball,Team
-,,,,,,Ireland,,1,,,Rowing,Team
-,,,,,,Switzerland,,2,,,Equestrian Jumping,Team
-,,,,,,Switzerland,,2,,,Sailing,Team
-,,,,,,Italy,,1,,,Canoe Sprint,Team
-,,,,,,United States of America,,4,,,Diving,Team
-,,,,,,Russian Federation,,4,,,Beach Volleyball,Team
-,,,,,,Brazil,,1,,,Rugby,Team
-,,,,,,Ireland,,2,,,Equestrian Eventing,Team
-,,,,,,Switzerland,,1,,,Rowing,Team
-,,,,,,Canada,,1,,,Cycling Track,Team
-,,,,,,Poland,,2,,,Beach Volleyball,Team
-,,,,,,Australia,,1,,,Rowing,Team
-,,,,,,Cuba,,3,,,Beach Volleyball,Team
-,,,,,,Canada,,1,,,Canoe Sprint,Team
-,,,,,,Sweden,1 G 2 B,10,,,Football,Team
-,,,,,,United States of America,2 G 3 S 1 B,19,,,Rowing,Team
-,,,,,,Poland,,4,,,Cycling Track,Team
-,,,,,,United States of America,,1,,,Table Tennis,Team
-,,,,,,Republic of Moldova,,1,,,Canoe Sprint,Team
-,,,,,,Malaysia,1 S,2,,,Diving,Team
-,,,,,,Denmark,1 G 1 B,4,,,Rowing,Team
-,,,,,,France,1 G 1 S 1 B,5,,,Rowing,Team
-,,,,,,People's Republic of China,,3,,,Water Polo,Team
-,,,,,,Canada,,2,,,Equestrian Eventing,Team
-,,,,,,Brazil,,1,,,Canoe Sprint,Team
-,,,,,,Great Britain,,1,,,Rowing,Team
-,,,,,,Germany,,2,,,Cycling Track,Team
-,,,,,,New Zealand,2 G,6,,,Rowing,Team
-,,,,,,Austria,,5,,,Beach Volleyball,Team
-,,,,,,Italy,,1,,,Archery,Team
-,,,,,,Croatia,1 S,4,,,Basketball,Team
-,,,,,,Great Britain,3 G,4,,,Cycling Track,Team
-,,,,,,Germany,1 G 1 B,6,,,Beach Volleyball,Team
-,,,,,,Netherlands,,4,,,Rowing,Team
-,,,,,,Canada,,1,,,Sailing,Team
-,,,,,,Egypt,,5,,,Volleyball,Team
-,,,,,,Great Britain,1 G 1 S 2 B,9,,,Rowing,Team
-,,,,,,Germany,,1,,,Sailing,Team
-,,,,,,Germany,1 S 1 B,7,,,Football,Team
-,,,,,,Sweden,,3,,,Table Tennis,Team
-,,,,,,Hungary,1 G,1,,,Canoe Sprint,Team
-,,,,,,United States of America,3 G 1 S,5,,,Football,Team
-,,,,,,Netherlands,,3,,,Volleyball,Team
-,,,,,,Argentina,,1,,,Canoe Sprint,Team
-,,,,,,Germany,1 G,1,,,Rowing,Team
-,,,,,,Australia,,2,,,Cycling Track,Team
-,,,,,,Canada,1 B,1,,,Rugby,Team
-,,,,,,Brazil,,1,,,Hockey,Team
-,,,,,,Italy,,1,,,Canoe Sprint,Team
-,,,,,,Norway,1 G 3 S 1 B,9,,,Rowing,Team
-,,,,,,United States of America,1 S 1 B,6,,,Rowing,Team
-,,,,,,Cuba,1 B,7,,,Volleyball,Team
-,,,,,,Portugal,,2,,,Sailing,Team
-,,,,,,"Hong Kong, China",,2,,,Swimming,Team
-,,,,,,People's Republic of China,,4,,,Rowing,Team
-,,,,,,Italy,2 S 1 B,11,,,Rowing,Team
-,,,,,,Venezuela,,2,,,Cycling Track,Team
-,,,,,,Vietnam,,3,,,Rowing,Team
-,,,,,,United States of America,1 B,2,,,Equestrian Dressage,Team
-,,,,,,Hungary,,4,,,Water Polo,Team
-,,,,,,Germany,2 G 2 S,7,,,Rowing,Team
-,,,,,,Netherlands,2 G 6 S 4 B,20,,,Swimming,Team
-,,,,,,Russian Federation,,5,,,Swimming,Team
-,,,,,,France,1 G 1 B,4,,,Fencing,Team
-,,,,,,Romania,,11,,,Rowing,Team
-,,,,,,Brazil,1 G 3 S 1 B,12,,,Football,Team
-,,,,,,Canada,1 S 1 B,6,,,Rowing,Team
-,,,,,,Australia,,14,,,Basketball,Team
-,,,,,,Hungary,,1,,,Canoe Sprint,Team
-,,,,,,New Zealand,,2,,,Cycling Track,Team
-,,,,,,Jamaica,2 G 1 S,8,,,Athletics,Team
-,,,,,,Spain,3 S 1 B,8,,,Tennis,Team
-,,,,,,Greece,1 B,8,,,Sailing,Team
-,,,,,,Japan,,4,,,Basketball,Team
-,,,,,,New Zealand,2 G 1 S 1 B,7,,,Rowing,Team
-,,,,,,Australia,,1,,,Canoe Sprint,Team
-,,,,,,Russian Federation,1 G 1 B,6,,,Tennis,Team
-,,,,,,United States of America,1 S 2 B,10,,,Rowing,Team
-,,,,,,Greece,,15,,,Water Polo,Team
-,,,,,,People's Republic of China,1 S,4,,,Football,Team
-,,,,,,People's Republic of China,1 S,5,,,Rowing,Team
-,,,,,,Italy,,10,,,Swimming,Team
-,,,,,,Spain,1 B,4,,,Handball,Team
-,,,,,,People's Republic of China,4 G 1 S,5,,,Diving,Team
-,,,,,,Brazil,,3,,,Rowing,Team
-,,,,,,People's Republic of China,,1,,,Swimming,Team
-,,,,,,Germany,,1,,,Sailing,Team
-,,,,,,Chile,,3,,,Sailing,Team
-,,,,,,"Hong Kong, China",,3,,,Badminton,Team
-,,,,,,Malaysia,,1,,,Archery,Team
-,,,,,,Argentina,,1,,,Volleyball,Team
-,,,,,,France,,2,,,Sailing,Team
-,,,,,,Japan,1 B,10,,,Sailing,Team
-,,,,,,Netherlands,2 G 4 S 3 B,17,,,Hockey,Team
-,,,,,,People's Republic of China,,2,,,Cycling Track,Team
-,,,,,,Russian Federation,2 S,6,,,Volleyball,Team
-,,,,,,Netherlands,2 G 2 S 3 B,8,,,Hockey,Team
-,,,,,,Denmark,1 B,2,,,Sailing,Team
-,,,,,,Brazil,,1,,,Water Polo,Team
-,,,,,,Germany,1 S 2 B,3,,,Table Tennis,Team
-,,,,,,Serbia,,1,,,Rowing,Team
-,,,,,,Italy,1 B,6,,,Rowing,Team
-,,,,,,Republic of Korea,2 G 2 S 3 B,7,,,Badminton,Team
-,,,,,,Great Britain,2 G 1 S 1 B,11,,,Rowing,Team
-,,,,,,Republic of Korea,1 G,1,,,Archery,Team
-,,,,,,Switzerland,,9,,,Cycling Track,Team
-,,,,,,Brazil,,1,,,Gymnastics Rhythmic,Team
-,,,,,,Hungary,,10,,,Swimming,Team
-,,,,,,Spain,1 S,4,,,Basketball,Team
-,,,,,,Romania,,3,,,Tennis,Team
-,,,,,,Costa Rica,,1,,,Beach Volleyball,Team
-,,,,,,Israel,,4,,,Synchronized Swimming,Team
-,,,,,,Italy,,2,,,Rowing,Team
-,,,,,,Brazil,2 G 3 S 1 B,6,,,Beach Volleyball,Team
-,,,,,,United States of America,14 G,14,,,Swimming,Team
-,,,,,,Brazil,,2,,,Rowing,Team
-,,,,,,Republic of Korea,2 S,7,,,Hockey,Team
-,,,,,,Brazil,,1,,,Swimming,Team
-,,,,,,Ukraine,,5,,,Synchronized Swimming,Team
-,,,,,,Slovenia,,1,,,Canoe Slalom,Team
-,,,,,,United States of America,1 G 1 S 1 B,8,,,Sailing,Team
-,,,,,,Japan,1 B,11,,,Gymnastics Artistic,Team
-,,,,,,Denmark,1 B,5,,,Swimming,Team
-,,,,,,United States of America,,5,,,Badminton,Team
-,,,,,,Japan,,1,,,Canoe Slalom,Team
-,,,,,,Czech Republic,,5,,,Synchronized Swimming,Team
-,,,,,,Great Britain,1 G,5,,,Diving,Team
-,,,,,,Great Britain,1 G 1 S 4 B,22,,,Swimming,Team
-,,,,,,Italy,1 G 2 S 2 B,11,,,Rowing,Team
-,,,,,,Canada,1 G,8,,,Tennis,Team
-,,,,,,New Zealand,1 B,2,,,Equestrian Eventing,Team
-,,,,,,United States of America,4 G 1 S 1 B,10,,,Rowing,Team
-,,,,,,People's Republic of China,1 G 1 S 1 B,4,,,Fencing,Team
-,,,,,,Spain,,1,,,Canoe Sprint,Team
-,,,,,,Germany,1 S 2 B,9,,,Swimming,Team
-,,,,,,Netherlands,1 B,2,,,Tennis,Team
-,,,,,,New Zealand,1 G,3,,,Rowing,Team
-,,,,,,Poland,1 B,1,,,Canoe Sprint,Team
-,,,,,,Republic of Korea,,1,,,Fencing,Team
-,,,,,,Indonesia,,1,,,Archery,Team
-,,,,,,Mexico,,6,,,Synchronized Swimming,Team
-,,,,,,Spain,,5,,,Swimming,Team
-,,,,,,Brazil,,2,,,Equestrian Jumping,Team
-,,,,,,Australia,,2,,,Equestrian Jumping,Team
-,,,,,,Chinese Taipei,,1,,,Archery,Team
-,,,,,,Ukraine,1 B,1,,,Canoe Sprint,Team
-,,,,,,Denmark,,1,,,Sailing,Team
-,,,,,,Australia,2 G 3 S 1 B,8,,,Rowing,Team
-,,,,,,Portugal,,4,,,Tennis,Team
-,,,,,,United States of America,3 G 1 S,6,,,Beach Volleyball,Team
-,,,,,,United States of America,3 G 1 S 2 B,6,,,Beach Volleyball,Team
-,,,,,,Denmark,,5,,,Rowing,Team
-,,,,,,Greece,,2,,,Swimming,Team
-,,,,,,Israel,,1,,,Swimming,Team
-,,,,,,Argentina,,1,,,Rugby,Team
-,,,,,,South Africa,,3,,,Sailing,Team
-,,,,,,Ireland,,2,,,Sailing,Team
-,,,,,,France,,2,,,Cycling Track,Team
-,,,,,,Australia,2 G 1 S 1 B,11,,,Rowing,Team
-,,,,,,Australia,1 G 1 S,8,,,Tennis,Team
-,,,,,,Japan,,3,,,Badminton,Team
-,,,,,,Ukraine,,1,,,Rowing,Team
-,,,,,,Australia,,1,,,Canoe Sprint,Team
-,,,,,,Slovakia,1 G,1,,,Canoe Slalom,Team
-,,,,,,Netherlands,1 B,4,,,Beach Volleyball,Team
-,,,,,,Russian Federation,,4,,,Swimming,Team
-,,,,,,Italy,,1,,,Archery,Team
-,,,,,,New Zealand,,2,,,Rowing,Team
-,,,,,,Canada,,6,,,Hockey,Team
-,,,,,,Kenya,,1,,,Rugby,Team
-,,,,,,Canada,,1,,,Sailing,Team
-,,,,,,Australia,,6,,,Synchronized Swimming,Team
-,,,,,,Germany,1 B,2,,,Equestrian Jumping,Team
-,,,,,,Russian Federation,1 G,2,,,Fencing,Team
-,,,,,,People's Republic of China,4 G 1 S,5,,,Diving,Team
-,,,,,,New Zealand,,2,,,Tennis,Team
-,,,,,,Japan,,5,,,Badminton,Team
-,,,,,,Poland,,1,,,Cycling Track,Team
-,,,,,,Great Britain,1 G 2 S,5,,,Tennis,Team
-,,,,,,Denmark,1 G,7,,,Handball,Team
-,,,,,,New Zealand,,2,,,Football,Team
-,,,,,,Sweden,,9,,,Swimming,Team
-,,,,,,Netherlands,1 S 1 B,6,,,Sailing,Team
-,,,,,,Great Britain,1 S 1 B,6,,,Badminton,Team
-,,,,,,Australia,2 B,7,,,Tennis,Team
-,,,,,,Lithuania,2 B,2,,,Rowing,Team
-,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
-,,,,,,Qatar,,1,,,Handball,Team
+id,name,age,gender,height,weight,nationality,medals,games,price,focus,sport,category
 53944,Rachel Jarry,24,F,186,77,Australia,1 B,2,155,,Basketball,Individual
 125294,Jos Gregorio Vargas Diaz,34,M,196,109,Venezuela,,1,140,,Basketball,Individual
 28086,Tania Di Mario,37,F,168,62,Italy,1 G 1 S,4,185,,Water Polo,Individual
@@ -12220,3 +11178,1045 @@ id,name,age,gender,height,weight,nationality,medals,games,biography,price,focus,
 123049,Miki Uchida,21,F,173,62,Japan,,2,147,,Swimming,Individual
 102477,Bredni Roque Mendoza,28,M,160,69,Mexico,,1,140,,Weightlifting,Individual
 125279,Daniel de Jess Vargas Snchez,32,M,162,53,Mexico,,2,147,,Athletics,Individual
+,,,,,,Brazil,,5,,,Swimming,Team
+,,,,,,Great Britain,2 G 5 S 5 B,21,,,Athletics,Team
+,,,,,,Australia,4 G 2 S 1 B,14,,,Swimming,Team
+,,,,,,Canada,,1,,,Rowing,Team
+,,,,,,Ukraine,1 G,4,,,Sailing,Team
+,,,,,,People's Republic of China,1 G 1 S,2,,,Cycling Track,Team
+,,,,,,Italy,,1,,,Sailing,Team
+,,,,,,People's Republic of China,1 S 1 B,6,,,Rowing,Team
+,,,,,,United States of America,1 B,5,,,Hockey,Team
+,,,,,,Republic of Korea,1 S,4,,,Fencing,Team
+,,,,,,Denmark,1 S,7,,,Badminton,Team
+,,,,,,Russian Federation,1 G 1 B,5,,,Diving,Team
+,,,,,,Spain,,1,,,Cycling Track,Team
+,,,,,,Brazil,1 S 2 B,7,,,Athletics,Team
+,,,,,,Ukraine,,1,,,Gymnastics Rhythmic,Team
+,,,,,,Cuba,,1,,,Canoe Sprint,Team
+,,,,,,Netherlands,2 S 3 B,8,,,Rowing,Team
+,,,,,,Germany,,7,,,Sailing,Team
+,,,,,,New Zealand,,10,,,Sailing,Team
+,,,,,,New Zealand,,1,,,Canoe Sprint,Team
+,,,,,,Japan,,1,,,Rugby,Team
+,,,,,,Japan,,1,,,Gymnastics Rhythmic,Team
+,,,,,,People's Republic of China,,1,,,Canoe Sprint,Team
+,,,,,,Russian Federation,1 G,1,,,Gymnastics Rhythmic,Team
+,,,,,,France,,12,,,Swimming,Team
+,,,,,,People's Republic of China,3 G 3 S 1 B,9,,,Gymnastics Artistic,Team
+,,,,,,Poland,,4,,,Swimming,Team
+,,,,,,Japan,2 G 2 S 2 B,12,,,Volleyball,Team
+,,,,,,Malaysia,,3,,,Badminton,Team
+,,,,,,Brazil,,3,,,Athletics,Team
+,,,,,,Lithuania,,1,,,Canoe Sprint,Team
+,,,,,,Germany,,6,,,Sailing,Team
+,,,,,,Australia,2 G 4 S 2 B,18,,,Swimming,Team
+,,,,,,Egypt,,2,,,Table Tennis,Team
+,,,,,,France,2 S 5 B,12,,,Tennis,Team
+,,,,,,France,1 G,2,,,Equestrian Jumping,Team
+,,,,,,Canada,1 S 3 B,5,,,Diving,Team
+,,,,,,Serbia,1 S,3,,,Volleyball,Team
+,,,,,,United States of America,,4,,,Badminton,Team
+,,,,,,People's Republic of China,,1,,,Archery,Team
+,,,,,,France,,1,,,Sailing,Team
+,,,,,,Uruguay,,1,,,Sailing,Team
+,,,,,,Norway,,1,,,Sailing,Team
+,,,,,,New Zealand,1 S,2,,,Cycling Track,Team
+,,,,,,France,1 B,7,,,Sailing,Team
+,,,,,,Italy,7 G 4 S 3 B,19,,,Fencing,Team
+,,,,,,Turkey,,5,,,Sailing,Team
+,,,,,,People's Republic of China,1 S 1 B,5,,,Beach Volleyball,Team
+,,,,,,Serbia,,3,,,Tennis,Team
+,,,,,,"Hong Kong, China",,1,,,Rowing,Team
+,,,,,,Argentina,1 G 1 B,7,,,Basketball,Team
+,,,,,,Great Britain,1 S 1 B,5,,,Diving,Team
+,,,,,,People's Republic of China,,11,,,Basketball,Team
+,,,,,,Canada,1 B,5,,,Beach Volleyball,Team
+,,,,,,Italy,,4,,,Tennis,Team
+,,,,,,Belgium,,1,,,Swimming,Team
+,,,,,,Thailand,,5,,,Badminton,Team
+,,,,,,France,,1,,,Table Tennis,Team
+,,,,,,Germany,1 G 1 S,2,,,Equestrian Dressage,Team
+,,,,,,Slovakia,,1,,,Canoe Sprint,Team
+,,,,,,Hungary,1 G,1,,,Canoe Sprint,Team
+,,,,,,Portugal,,2,,,Table Tennis,Team
+,,,,,,Argentina,,1,,,Canoe Sprint,Team
+,,,,,,Japan,,1,,,Sailing,Team
+,,,,,,Germany,1 S,3,,,Table Tennis,Team
+,,,,,,France,1 B,1,,,Canoe Slalom,Team
+,,,,,,Hungary,,1,,,Canoe Sprint,Team
+,,,,,,France,,2,,,Fencing,Team
+,,,,,,Switzerland,1 S,6,,,Tennis,Team
+,,,,,,Great Britain,1 S,5,,,Rowing,Team
+,,,,,,Germany,1 G,1,,,Canoe Sprint,Team
+,,,,,,Canada,,4,,,Volleyball,Team
+,,,,,,New Zealand,1 G 1 S,2,,,Sailing,Team
+,,,,,,Venezuela,,2,,,Fencing,Team
+,,,,,,Russian Federation,1 S,1,,,Cycling Track,Team
+,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
+,,,,,,Brazil,1 G,1,,,Sailing,Team
+,,,,,,Spain,,1,,,Sailing,Team
+,,,,,,Australia,1 G,1,,,Rugby,Team
+,,,,,,Indonesia,,7,,,Badminton,Team
+,,,,,,Jamaica,4 S 1 B,9,,,Athletics,Team
+,,,,,,Hungary,,6,,,Rowing,Team
+,,,,,,Great Britain,1 G 1 S,5,,,Rowing,Team
+,,,,,,France,2 S 2 B,4,,,Cycling Track,Team
+,,,,,,Lithuania,,2,,,Swimming,Team
+,,,,,,People's Republic of China,,1,,,Canoe Sprint,Team
+,,,,,,United States of America,5 G 1 B,6,,,Swimming,Team
+,,,,,,Great Britain,1 S,2,,,Equestrian Eventing,Team
+,,,,,,Great Britain,,6,,,Swimming,Team
+,,,,,,South Africa,,2,,,Football,Team
+,,,,,,Czech Republic,,2,,,Rowing,Team
+,,,,,,Germany,1 G,5,,,Gymnastics Artistic,Team
+,,,,,,South Africa,,4,,,Rowing,Team
+,,,,,,Ukraine,,1,,,Canoe Sprint,Team
+,,,,,,Australia,,5,,,Athletics,Team
+,,,,,,Argentina,1 G 2 S,7,,,Football,Team
+,,,,,,Mexico,1 S 1 B,5,,,Diving,Team
+,,,,,,Germany,1 S,7,,,Rowing,Team
+,,,,,,Russian Federation,1 G 1 S 1 B,6,,,Gymnastics Artistic,Team
+,,,,,,Argentina,,2,,,Synchronized Swimming,Team
+,,,,,,Czech Republic,1 B,2,,,Tennis,Team
+,,,,,,Argentina,,1,,,Sailing,Team
+,,,,,,Brazil,,2,,,Swimming,Team
+,,,,,,Canada,,4,,,Beach Volleyball,Team
+,,,,,,Egypt,,6,,,Handball,Team
+,,,,,,Austria,,3,,,Table Tennis,Team
+,,,,,,Germany,1 B,4,,,Diving,Team
+,,,,,,Great Britain,,1,,,Sailing,Team
+,,,,,,Croatia,1 G,3,,,Rowing,Team
+,,,,,,Hungary,9 G 3 S 3 B,22,,,Water Polo,Team
+,,,,,,New Zealand,1 G 2 S,7,,,Sailing,Team
+,,,,,,Great Britain,4 S,10,,,Sailing,Team
+,,,,,,Netherlands,1 B,6,,,Swimming,Team
+,,,,,,Australia,,4,,,Badminton,Team
+,,,,,,Great Britain,,1,,,Canoe Sprint,Team
+,,,,,,Italy,,5,,,Volleyball,Team
+,,,,,,Romania,1 G,2,,,Fencing,Team
+,,,,,,Aruba,,1,,,Sailing,Team
+,,,,,,Spain,,2,,,Sailing,Team
+,,,,,,Poland,,7,,,Rowing,Team
+,,,,,,Cuba,,5,,,Rowing,Team
+,,,,,,United States of America,2 S,2,,,Cycling Track,Team
+,,,,,,Russian Federation,1 S,6,,,Swimming,Team
+,,,,,,Spain,,1,,,Rugby,Team
+,,,,,,South Africa,,5,,,Swimming,Team
+,,,,,,People's Republic of China,1 S 1 B,8,,,Basketball,Team
+,,,,,,Canada,1 G 2 S 2 B,7,,,Athletics,Team
+,,,,,,Germany,1 G 1 S 1 B,7,,,Handball,Team
+,,,,,,Germany,1 S,1,,,Canoe Sprint,Team
+,,,,,,Chile,,1,,,Sailing,Team
+,,,,,,Australia,1 G 3 S 1 B,6,,,Swimming,Team
+,,,,,,Brazil,,1,,,Rugby,Team
+,,,,,,Poland,1 S,3,,,Rowing,Team
+,,,,,,Ukraine,,1,,,Archery,Team
+,,,,,,France,,1,,,Archery,Team
+,,,,,,South Africa,,1,,,Rowing,Team
+,,,,,,Hungary,2 S 2 B,14,,,Swimming,Team
+,,,,,,India,8 G 1 S 2 B,20,,,Hockey,Team
+,,,,,,Brazil,1 B,7,,,Sailing,Team
+,,,,,,Nigeria,,2,,,Table Tennis,Team
+,,,,,,Chinese Taipei,,4,,,Tennis,Team
+,,,,,,Trinidad and Tobago,,3,,,Athletics,Team
+,,,,,,Croatia,,2,,,Sailing,Team
+,,,,,,Switzerland,,1,,,Sailing,Team
+,,,,,,France,,2,,,Football,Team
+,,,,,,Brazil,,1,,,Fencing,Team
+,,,,,,Republic of Korea,1 G 2 S 3 B,7,,,Badminton,Team
+,,,,,,Japan,2 G 3 S 3 B,14,,,Gymnastics Artistic,Team
+,,,,,,Croatia,2 B,6,,,Tennis,Team
+,,,,,,Czech Republic,,1,,,Canoe Sprint,Team
+,,,,,,Argentina,,1,,,Sailing,Team
+,,,,,,Romania,,1,,,Swimming,Team
+,,,,,,Japan,,1,,,Rugby,Team
+,,,,,,Australia,1 B,1,,,Swimming,Team
+,,,,,,Canada,3 B,12,,,Swimming,Team
+,,,,,,United States of America,11 G 2 S 2 B,23,,,Rowing,Team
+,,,,,,Brazil,3 B,15,,,Basketball,Team
+,,,,,,Republic of Korea,,8,,,Sailing,Team
+,,,,,,Australia,2 G,8,,,Sailing,Team
+,,,,,,United States of America,2 B,2,,,Fencing,Team
+,,,,,,Russian Federation,,3,,,Beach Volleyball,Team
+,,,,,,Republic of Korea,1 S 1 B,3,,,Table Tennis,Team
+,,,,,,People's Republic of China,,6,,,Sailing,Team
+,,,,,,Poland,,1,,,Canoe Sprint,Team
+,,,,,,Australia,3 G,8,,,Hockey,Team
+,,,,,,Australia,2 G 3 S 2 B,12,,,Cycling Track,Team
+,,,,,,United States of America,,9,,,Rowing,Team
+,,,,,,Germany,1 G 1 B,2,,,Cycling Track,Team
+,,,,,,Kenya,,1,,,Rugby,Team
+,,,,,,People's Republic of China,2 B,9,,,Swimming,Team
+,,,,,,Brazil,,8,,,Water Polo,Team
+,,,,,,Brazil,,2,,,Table Tennis,Team
+,,,,,,Australia,1 B,1,,,Canoe Sprint,Team
+,,,,,,Mexico,,3,,,Diving,Team
+,,,,,,Denmark,1 S,9,,,Swimming,Team
+,,,,,,Lithuania,,1,,,Rowing,Team
+,,,,,,Ukraine,,2,,,Equestrian Jumping,Team
+,,,,,,"Hong Kong, China",,3,,,Table Tennis,Team
+,,,,,,Brazil,,1,,,Canoe Sprint,Team
+,,,,,,United States of America,,1,,,Gymnastics Rhythmic,Team
+,,,,,,Italy,,1,,,Swimming,Team
+,,,,,,Belgium,,4,,,Athletics,Team
+,,,,,,Romania,,4,,,Handball,Team
+,,,,,,Switzerland,,3,,,Swimming,Team
+,,,,,,France,,4,,,Rowing,Team
+,,,,,,Germany,1 G,1,,,Canoe Sprint,Team
+,,,,,,New Zealand,,1,,,Sailing,Team
+,,,,,,Greece,,1,,,Swimming,Team
+,,,,,,Indonesia,1 G 2 S,6,,,Badminton,Team
+,,,,,,Brazil,1 S 1 B,7,,,Basketball,Team
+,,,,,,Germany,1 G,11,,,Gymnastics Artistic,Team
+,,,,,,Canada,1 B,4,,,Diving,Team
+,,,,,,Australia,,6,,,Badminton,Team
+,,,,,,People's Republic of China,5 G 3 S 4 B,7,,,Badminton,Team
+,,,,,,United States of America,4 G 1 S 4 B,10,,,Tennis,Team
+,,,,,,Spain,1 G,1,,,Canoe Sprint,Team
+,,,,,,Brazil,,1,,,Tennis,Team
+,,,,,,Italy,1 G 1 S,4,,,Water Polo,Team
+,,,,,,Japan,1 S,8,,,Sailing,Team
+,,,,,,Poland,,2,,,Tennis,Team
+,,,,,,Republic of Korea,1 B,3,,,Table Tennis,Team
+,,,,,,Great Britain,2 G 1 S 1 B,10,,,Tennis,Team
+,,,,,,Spain,,4,,,Swimming,Team
+,,,,,,Denmark,3 S 1 B,9,,,Football,Team
+,,,,,,Sweden,,2,,,Equestrian Eventing,Team
+,,,,,,Colombia,,1,,,Rugby,Team
+,,,,,,Netherlands,,1,,,Archery,Team
+,,,,,,Mozambique,,1,,,Canoe Sprint,Team
+,,,,,,Austria,,2,,,Rowing,Team
+,,,,,,United States of America,3 G 2 B,11,,,Volleyball,Team
+,,,,,,People's Republic of China,2 S 1 B,6,,,Synchronized Swimming,Team
+,,,,,,Canada,2 B,2,,,Cycling Track,Team
+,,,,,,Hungary,,1,,,Canoe Sprint,Team
+,,,,,,France,1 S,5,,,Handball,Team
+,,,,,,Ireland,,1,,,Sailing,Team
+,,,,,,Japan,,1,,,Equestrian Dressage,Team
+,,,,,,United States of America,1 S 1 B,5,,,Diving,Team
+,,,,,,Switzerland,,1,,,Sailing,Team
+,,,,,,Colombia,,1,,,Archery,Team
+,,,,,,Japan,,1,,,Swimming,Team
+,,,,,,Italy,,1,,,Fencing,Team
+,,,,,,Republic of Korea,2 G 3 S 1 B,9,,,Handball,Team
+,,,,,,Bulgaria,,6,,,Rowing,Team
+,,,,,,Germany,,3,,,Tennis,Team
+,,,,,,Great Britain,,4,,,Synchronized Swimming,Team
+,,,,,,Russian Federation,,3,,,Badminton,Team
+,,,,,,Russian Federation,,1,,,Swimming,Team
+,,,,,,Brazil,1 S,1,,,Canoe Sprint,Team
+,,,,,,Poland,,1,,,Table Tennis,Team
+,,,,,,Canada,3 S 2 B,13,,,Swimming,Team
+,,,,,,Sweden,,2,,,Equestrian Dressage,Team
+,,,,,,Italy,,1,,,Canoe Sprint,Team
+,,,,,,France,1 B,5,,,Rowing,Team
+,,,,,,Belarus,,1,,,Rowing,Team
+,,,,,,Australia,,4,,,Synchronized Swimming,Team
+,,,,,,Netherlands,1 S,1,,,Rowing,Team
+,,,,,,Australia,,4,,,Cycling Track,Team
+,,,,,,United States of America,,1,,,Badminton,Team
+,,,,,,Singapore,,1,,,Sailing,Team
+,,,,,,Ukraine,1 B,2,,,Athletics,Team
+,,,,,,France,7 G 5 S 4 B,21,,,Fencing,Team
+,,,,,,New Zealand,1 G 1 B,6,,,Rowing,Team
+,,,,,,Bahamas,1 G 1 S 2 B,6,,,Athletics,Team
+,,,,,,Italy,7 G 3 S 1 B,19,,,Cycling Track,Team
+,,,,,,Spain,,2,,,Equestrian Dressage,Team
+,,,,,,People's Republic of China,1 S 1 B,7,,,Rowing,Team
+,,,,,,United States of America,,1,,,Rugby,Team
+,,,,,,Portugal,,1,,,Canoe Sprint,Team
+,,,,,,Netherlands,1 G 1 S 2 B,9,,,Rowing,Team
+,,,,,,France,,1,,,Rugby,Team
+,,,,,,Austria,,3,,,Sailing,Team
+,,,,,,South Africa,,2,,,Rowing,Team
+,,,,,,Croatia,2 G 1 B,5,,,Handball,Team
+,,,,,,United States of America,1 G 3 S 1 B,10,,,Sailing,Team
+,,,,,,People's Republic of China,3 G 1 S 3 B,6,,,Badminton,Team
+,,,,,,Croatia,1 G 2 S,6,,,Water Polo,Team
+,,,,,,Italy,,9,,,Swimming,Team
+,,,,,,Netherlands,,5,,,Tennis,Team
+,,,,,,Finland,,3,,,Swimming,Team
+,,,,,,Czech Republic,1 B,1,,,Canoe Sprint,Team
+,,,,,,Mexico,,1,,,Fencing,Team
+,,,,,,Great Britain,2 G 3 S 2 B,17,,,Athletics,Team
+,,,,,,People's Republic of China,1 G 1 B,7,,,Tennis,Team
+,,,,,,Brazil,1 S,5,,,Football,Team
+,,,,,,United States of America,1 G,1,,,Swimming,Team
+,,,,,,France,2 G 1 S 1 B,7,,,Handball,Team
+,,,,,,Italy,,5,,,Beach Volleyball,Team
+,,,,,,Tunisia,,5,,,Handball,Team
+,,,,,,Sweden,,2,,,Equestrian Jumping,Team
+,,,,,,Sweden,,1,,,Sailing,Team
+,,,,,,Poland,,2,,,Sailing,Team
+,,,,,,Italy,,2,,,Athletics,Team
+,,,,,,France,,1,,,Canoe Sprint,Team
+,,,,,,Poland,2 G,4,,,Rowing,Team
+,,,,,,United States of America,1 G 2 S 1 B,17,,,Gymnastics Artistic,Team
+,,,,,,Egypt,,1,,,Beach Volleyball,Team
+,,,,,,Poland,,1,,,Beach Volleyball,Team
+,,,,,,Netherlands,,2,,,Equestrian Eventing,Team
+,,,,,,Belarus,,4,,,Tennis,Team
+,,,,,,Brazil,,1,,,Diving,Team
+,,,,,,Italy,2 B,11,,,Rowing,Team
+,,,,,,Great Britain,2 G 6 S 1 B,19,,,Rowing,Team
+,,,,,,Angola,,1,,,Rowing,Team
+,,,,,,Algeria,,2,,,Football,Team
+,,,,,,Netherlands,,5,,,Badminton,Team
+,,,,,,Australia,,16,,,Water Polo,Team
+,,,,,,Slovenia,,3,,,Swimming,Team
+,,,,,,Russian Federation,2 G 1 B,5,,,Fencing,Team
+,,,,,,Spain,2 G 1 S,11,,,Sailing,Team
+,,,,,,Germany,3 G 1 S,9,,,Cycling Track,Team
+,,,,,,People's Republic of China,,4,,,Hockey,Team
+,,,,,,Republic of Korea,,7,,,Fencing,Team
+,,,,,,Israel,,6,,,Sailing,Team
+,,,,,,Brazil,,2,,,Fencing,Team
+,,,,,,France,1 G 2 S 1 B,11,,,Rowing,Team
+,,,,,,Germany,,1,,,Gymnastics Rhythmic,Team
+,,,,,,Australia,1 S,1,,,Rowing,Team
+,,,,,,Denmark,,2,,,Equestrian Dressage,Team
+,,,,,,Italy,,2,,,Sailing,Team
+,,,,,,Switzerland,,1,,,Canoe Slalom,Team
+,,,,,,Russian Federation,,1,,,Canoe Slalom,Team
+,,,,,,Malaysia,,2,,,Diving,Team
+,,,,,,Russian Federation,5 G,5,,,Synchronized Swimming,Team
+,,,,,,Romania,1 S,7,,,Tennis,Team
+,,,,,,Nigeria,1 G 1 B,6,,,Football,Team
+,,,,,,Japan,,6,,,Rowing,Team
+,,,,,,Brazil,,1,,,Synchronized Swimming,Team
+,,,,,,Great Britain,4 B,11,,,Athletics,Team
+,,,,,,Italy,,9,,,Tennis,Team
+,,,,,,Brazil,,7,,,Tennis,Team
+,,,,,,Italy,,4,,,Synchronized Swimming,Team
+,,,,,,United States of America,1 B,3,,,Fencing,Team
+,,,,,,Poland,,1,,,Canoe Slalom,Team
+,,,,,,Great Britain,1 S,1,,,Rugby,Team
+,,,,,,Brazil,,1,,,Diving,Team
+,,,,,,Fiji,,1,,,Rugby,Team
+,,,,,,Germany,1 G 1 S 1 B,6,,,Hockey,Team
+,,,,,,Canada,1 G 1 S,9,,,Rowing,Team
+,,,,,,Denmark,1 S,7,,,Badminton,Team
+,,,,,,Tunisia,,1,,,Rowing,Team
+,,,,,,Netherlands,,6,,,Rowing,Team
+,,,,,,Switzerland,,4,,,Beach Volleyball,Team
+,,,,,,Poland,,1,,,Rowing,Team
+,,,,,,Switzerland,,6,,,Synchronized Swimming,Team
+,,,,,,People's Republic of China,1 S 1 B,6,,,Synchronized Swimming,Team
+,,,,,,Nigeria,,2,,,Basketball,Team
+,,,,,,People's Republic of China,3 G,3,,,Table Tennis,Team
+,,,,,,India,,1,,,Athletics,Team
+,,,,,,New Zealand,,1,,,Rowing,Team
+,,,,,,Russian Federation,1 G 1 S,3,,,Handball,Team
+,,,,,,Argentina,1 G,11,,,Hockey,Team
+,,,,,,Germany,1 G,6,,,Beach Volleyball,Team
+,,,,,,Ireland,,1,,,Hockey,Team
+,,,,,,Israel,,1,,,Gymnastics Rhythmic,Team
+,,,,,,France,,1,,,Rugby,Team
+,,,,,,Germany,,1,,,Canoe Sprint,Team
+,,,,,,Netherlands,,3,,,Cycling Track,Team
+,,,,,,Italy,,6,,,Synchronized Swimming,Team
+,,,,,,Argentina,1 B,7,,,Volleyball,Team
+,,,,,,South Africa,1 S 1 B,5,,,Rowing,Team
+,,,,,,India,,2,,,Hockey,Team
+,,,,,,Belarus,,1,,,Gymnastics Rhythmic,Team
+,,,,,,Ukraine,,3,,,Fencing,Team
+,,,,,,Canada,,2,,,Equestrian Jumping,Team
+,,,,,,France,1 B,10,,,Tennis,Team
+,,,,,,Germany,,5,,,Badminton,Team
+,,,,,,Italy,3 G 2 S 3 B,20,,,Water Polo,Team
+,,,,,,Austria,,2,,,Sailing,Team
+,,,,,,India,,2,,,Badminton,Team
+,,,,,,Qatar,,1,,,Equestrian Jumping,Team
+,,,,,,Czech Republic,,3,,,Rowing,Team
+,,,,,,Indonesia,3 G 1 S 2 B,7,,,Badminton,Team
+,,,,,,Thailand,,4,,,Badminton,Team
+,,,,,,Japan,2 S,7,,,Athletics,Team
+,,,,,,Serbia,,1,,,Canoe Sprint,Team
+,,,,,,Canada,1 S,6,,,Synchronized Swimming,Team
+,,,,,,Ukraine,,1,,,Tennis,Team
+,,,,,,United States of America,,3,,,Table Tennis,Team
+,,,,,,Austria,,5,,,Sailing,Team
+,,,,,,Japan,,1,,,Archery,Team
+,,,,,,Estonia,,2,,,Fencing,Team
+,,,,,,Serbia,,1,,,Canoe Sprint,Team
+,,,,,,Russian Federation,4 S 1 B,6,,,Gymnastics Artistic,Team
+,,,,,,Hungary,,6,,,Tennis,Team
+,,,,,,Norway,2 G 2 S 2 B,7,,,Handball,Team
+,,,,,,Serbia,,3,,,Rowing,Team
+,,,,,,Spain,1 G,5,,,Hockey,Team
+,,,,,,United States of America,1 G 1 B,6,,,Synchronized Swimming,Team
+,,,,,,Chinese Taipei,,2,,,Table Tennis,Team
+,,,,,,Democratic People's Republic of Korea,,2,,,Diving,Team
+,,,,,,Ukraine,,1,,,Synchronized Swimming,Team
+,,,,,,Montenegro,,3,,,Water Polo,Team
+,,,,,,Australia,,3,,,Football,Team
+,,,,,,New Zealand,1 G,11,,,Hockey,Team
+,,,,,,Poland,,3,,,Athletics,Team
+,,,,,,Australia,,3,,,Table Tennis,Team
+,,,,,,Australia,2 G 1 B,9,,,Rowing,Team
+,,,,,,Mexico,1 G,12,,,Football,Team
+,,,,,,Great Britain,2 S 6 B,13,,,Athletics,Team
+,,,,,,Cuba,,5,,,Rowing,Team
+,,,,,,Japan,1 B,9,,,Football,Team
+,,,,,,Japan,2 G 3 S 2 B,12,,,Swimming,Team
+,,,,,,Finland,1 B,10,,,Sailing,Team
+,,,,,,Denmark,,1,,,Rowing,Team
+,,,,,,Japan,,6,,,Rowing,Team
+,,,,,,Romania,,2,,,Table Tennis,Team
+,,,,,,Denmark,,1,,,Canoe Sprint,Team
+,,,,,,Great Britain,,1,,,Rugby,Team
+,,,,,,Australia,,1,,,Canoe Sprint,Team
+,,,,,,Venezuela,,2,,,Basketball,Team
+,,,,,,Slovakia,,3,,,Synchronized Swimming,Team
+,,,,,,Kazakhstan,,5,,,Synchronized Swimming,Team
+,,,,,,Ukraine,,1,,,Rowing,Team
+,,,,,,Russian Federation,1 S,4,,,Fencing,Team
+,,,,,,Serbia,1 S,1,,,Basketball,Team
+,,,,,,Australia,1 G 1 B,6,,,Beach Volleyball,Team
+,,,,,,Austria,,4,,,Synchronized Swimming,Team
+,,,,,,South Africa,,2,,,Football,Team
+,,,,,,Brazil,,2,,,Swimming,Team
+,,,,,,United States of America,2 G 2 S 1 B,5,,,Water Polo,Team
+,,,,,,Sweden,1 S 3 B,20,,,Swimming,Team
+,,,,,,Angola,,2,,,Sailing,Team
+,,,,,,Spain,1 G 1 S 1 B,10,,,Tennis,Team
+,,,,,,Canada,1 G 2 S 1 B,9,,,Rowing,Team
+,,,,,,Honduras,,3,,,Football,Team
+,,,,,,Denmark,2 B,6,,,Badminton,Team
+,,,,,,Sweden,4 S,8,,,Handball,Team
+,,,,,,Netherlands,1 S 1 B,17,,,Cycling Track,Team
+,,,,,,Switzerland,1 G,3,,,Rowing,Team
+,,,,,,Turkey,,1,,,Rowing,Team
+,,,,,,Australia,1 G 2 B,5,,,Water Polo,Team
+,,,,,,Republic of Korea,1 G,1,,,Archery,Team
+,,,,,,Italy,,2,,,Diving,Team
+,,,,,,Italy,1 S,3,,,Diving,Team
+,,,,,,Brazil,,1,,,Sailing,Team
+,,,,,,Russian Federation,,1,,,Canoe Sprint,Team
+,,,,,,Italy,,9,,,Swimming,Team
+,,,,,,Denmark,3 G 1 S 2 B,6,,,Rowing,Team
+,,,,,,Sweden,,11,,,Sailing,Team
+,,,,,,Mexico,,1,,,Archery,Team
+,,,,,,Poland,1 B,1,,,Rowing,Team
+,,,,,,Denmark,1 B,1,,,Rowing,Team
+,,,,,,New Zealand,2 B,9,,,Cycling Track,Team
+,,,,,,Argentina,2 S 1 B,6,,,Hockey,Team
+,,,,,,Serbia,,1,,,Tennis,Team
+,,,,,,Australia,2 B,5,,,Diving,Team
+,,,,,,Great Britain,1 G,2,,,Equestrian Jumping,Team
+,,,,,,United States of America,17 G 5 S 2 B,24,,,Swimming,Team
+,,,,,,Great Britain,1 B,5,,,Badminton,Team
+,,,,,,Russian Federation,,6,,,Sailing,Team
+,,,,,,Brazil,,3,,,Table Tennis,Team
+,,,,,,Japan,1 S,3,,,Table Tennis,Team
+,,,,,,Romania,,1,,,Tennis,Team
+,,,,,,Argentina,,2,,,Beach Volleyball,Team
+,,,,,,Japan,,3,,,Hockey,Team
+,,,,,,Mexico,,6,,,Tennis,Team
+,,,,,,Great Britain,3 G 2 S 4 B,17,,,Hockey,Team
+,,,,,,United States of America,7 G,9,,,Tennis,Team
+,,,,,,Germany,1 S 1 B,13,,,Swimming,Team
+,,,,,,Russian Federation,,3,,,Sailing,Team
+,,,,,,Republic of Korea,1 B,11,,,Volleyball,Team
+,,,,,,Japan,1 G 1 S,7,,,Badminton,Team
+,,,,,,United States of America,2 G 2 S 1 B,4,,,Tennis,Team
+,,,,,,New Zealand,,6,,,Hockey,Team
+,,,,,,Spain,,1,,,Sailing,Team
+,,,,,,Cuba,,1,,,Canoe Sprint,Team
+,,,,,,Brazil,,6,,,Synchronized Swimming,Team
+,,,,,,Argentina,,1,,,Equestrian Jumping,Team
+,,,,,,France,1 S 2 B,14,,,Swimming,Team
+,,,,,,France,1 G 2 B,11,,,Water Polo,Team
+,,,,,,Great Britain,2 G 1 S,10,,,Rowing,Team
+,,,,,,Serbia,1 S,1,,,Canoe Sprint,Team
+,,,,,,Netherlands,,1,,,Sailing,Team
+,,,,,,France,1 S,1,,,Swimming,Team
+,,,,,,Italy,,1,,,Cycling Track,Team
+,,,,,,Great Britain,,1,,,Sailing,Team
+,,,,,,Hungary,3 G 2 S 1 B,15,,,Fencing,Team
+,,,,,,People's Republic of China,2 S,8,,,Fencing,Team
+,,,,,,Ukraine,1 G 1 S,2,,,Fencing,Team
+,,,,,,Venezuela,,1,,,Beach Volleyball,Team
+,,,,,,People's Republic of China,2 S,6,,,Swimming,Team
+,,,,,,Netherlands,,5,,,Rowing,Team
+,,,,,,Spain,,2,,,Beach Volleyball,Team
+,,,,,,France,2 S 2 B,12,,,Rowing,Team
+,,,,,,Qatar,,1,,,Beach Volleyball,Team
+,,,,,,Russian Federation,1 S,1,,,Archery,Team
+,,,,,,People's Republic of China,2 G 1 S 1 B,7,,,Badminton,Team
+,,,,,,Germany,2 S 1 B,7,,,Swimming,Team
+,,,,,,Brazil,3 G 3 S,14,,,Volleyball,Team
+,,,,,,Fiji,,1,,,Football,Team
+,,,,,,Great Britain,,6,,,Badminton,Team
+,,,,,,Germany,2 G 1 S 4 B,13,,,Hockey,Team
+,,,,,,Egypt,,3,,,Synchronized Swimming,Team
+,,,,,,Great Britain,1 G 1 S,2,,,Equestrian Dressage,Team
+,,,,,,United States of America,3 G 3 S 3 B,17,,,Gymnastics Artistic,Team
+,,,,,,Cuba,1 S,3,,,Athletics,Team
+,,,,,,Czech Republic,,1,,,Canoe Slalom,Team
+,,,,,,Italy,,1,,,Sailing,Team
+,,,,,,Russian Federation,1 G 1 S 2 B,6,,,Volleyball,Team
+,,,,,,Brazil,,1,,,Fencing,Team
+,,,,,,Canada,1 S,4,,,Athletics,Team
+,,,,,,United States of America,,1,,,Rowing,Team
+,,,,,,Germany,1 S,1,,,Canoe Sprint,Team
+,,,,,,Japan,,2,,,Sailing,Team
+,,,,,,Lithuania,1 B,1,,,Canoe Sprint,Team
+,,,,,,France,9 G 3 S 4 B,21,,,Fencing,Team
+,,,,,,Canada,,6,,,Tennis,Team
+,,,,,,Netherlands,,6,,,Beach Volleyball,Team
+,,,,,,France,,1,,,Sailing,Team
+,,,,,,Great Britain,5 G 1 S 2 B,17,,,Rowing,Team
+,,,,,,Croatia,1 G,6,,,Sailing,Team
+,,,,,,France,,1,,,Canoe Sprint,Team
+,,,,,,Singapore,,1,,,Sailing,Team
+,,,,,,France,1 B,6,,,Synchronized Swimming,Team
+,,,,,,People's Republic of China,,7,,,Swimming,Team
+,,,,,,Mexico,,2,,,Volleyball,Team
+,,,,,,Canada,,1,,,Swimming,Team
+,,,,,,Netherlands,2 G 1 B,6,,,Rowing,Team
+,,,,,,Great Britain,1 G,4,,,Rowing,Team
+,,,,,,Singapore,,2,,,Sailing,Team
+,,,,,,Brazil,,1,,,Equestrian Dressage,Team
+,,,,,,United States of America,,1,,,Canoe Slalom,Team
+,,,,,,Australia,1 G 3 S 5 B,14,,,Swimming,Team
+,,,,,,South Africa,,6,,,Swimming,Team
+,,,,,,Great Britain,1 S,1,,,Canoe Sprint,Team
+,,,,,,Cuba,,3,,,Rowing,Team
+,,,,,,Tunisia,,1,,,Beach Volleyball,Team
+,,,,,,Brazil,,1,,,Archery,Team
+,,,,,,Republic of Korea,,1,,,Cycling Track,Team
+,,,,,,Chile,,1,,,Rowing,Team
+,,,,,,Jamaica,1 G 3 S 1 B,8,,,Athletics,Team
+,,,,,,United States of America,17 G 3 S,22,,,Athletics,Team
+,,,,,,Australia,1 S,7,,,Rowing,Team
+,,,,,,Brazil,1 G,10,,,Sailing,Team
+,,,,,,Great Britain,8 G 2 S 2 B,19,,,Rowing,Team
+,,,,,,"Hong Kong, China",,4,,,Rowing,Team
+,,,,,,Spain,1 S,6,,,Beach Volleyball,Team
+,,,,,,France,1 G 1 S 2 B,16,,,Rowing,Team
+,,,,,,Brazil,,2,,,Equestrian Eventing,Team
+,,,,,,Italy,,2,,,Rowing,Team
+,,,,,,Germany,1 G 1 S,2,,,Equestrian Eventing,Team
+,,,,,,Brazil,,4,,,Tennis,Team
+,,,,,,United States of America,,1,,,Sailing,Team
+,,,,,,Poland,,3,,,Badminton,Team
+,,,,,,South Africa,,1,,,Rowing,Team
+,,,,,,United States of America,1 S,1,,,Archery,Team
+,,,,,,Italy,,5,,,Swimming,Team
+,,,,,,Netherlands,,4,,,Badminton,Team
+,,,,,,People's Republic of China,,1,,,Gymnastics Rhythmic,Team
+,,,,,,France,,1,,,Equestrian Dressage,Team
+,,,,,,Germany,1 G,1,,,Rowing,Team
+,,,,,,Australia,,2,,,Equestrian Dressage,Team
+,,,,,,United States of America,1 G 5 S 3 B,17,,,Rowing,Team
+,,,,,,"Hong Kong, China",,4,,,Badminton,Team
+,,,,,,Netherlands,,1,,,Sailing,Team
+,,,,,,Sweden,,1,,,Canoe Sprint,Team
+,,,,,,Sweden,,3,,,Handball,Team
+,,,,,,Italy,,8,,,Sailing,Team
+,,,,,,Japan,,8,,,Swimming,Team
+,,,,,,South Africa,1 B,1,,,Rugby,Team
+,,,,,,Poland,1 G,9,,,Volleyball,Team
+,,,,,,Canada,1 S 1 B,5,,,Rowing,Team
+,,,,,,People's Republic of China,5 G,5,,,Diving,Team
+,,,,,,United States of America,3 S 2 B,11,,,Volleyball,Team
+,,,,,,Lithuania,1 S,2,,,Rowing,Team
+,,,,,,Poland,,5,,,Badminton,Team
+,,,,,,Chinese Taipei,,2,,,Badminton,Team
+,,,,,,Italy,1 G 2 S 5 B,18,,,Rowing,Team
+,,,,,,Belarus,,1,,,Canoe Sprint,Team
+,,,,,,People's Republic of China,3 G 1 B,5,,,Diving,Team
+,,,,,,Australia,1 B,2,,,Cycling Track,Team
+,,,,,,United States of America,,2,,,Equestrian Eventing,Team
+,,,,,,Bulgaria,1 B,1,,,Gymnastics Rhythmic,Team
+,,,,,,Malaysia,1 S,2,,,Badminton,Team
+,,,,,,Latvia,1 B,3,,,Beach Volleyball,Team
+,,,,,,Czech Republic,,2,,,Swimming,Team
+,,,,,,Poland,,3,,,Rowing,Team
+,,,,,,Netherlands,1 B,2,,,Equestrian Dressage,Team
+,,,,,,Trinidad and Tobago,2 B,8,,,Athletics,Team
+,,,,,,Malaysia,2 S 1 B,7,,,Badminton,Team
+,,,,,,Belarus,,3,,,Rowing,Team
+,,,,,,Spain,1 G 1 S,17,,,Water Polo,Team
+,,,,,,Chile,,1,,,Sailing,Team
+,,,,,,Ukraine,,2,,,Fencing,Team
+,,,,,,Thailand,,1,,,Tennis,Team
+,,,,,,Spain,3 S 1 B,12,,,Basketball,Team
+,,,,,,United States of America,1 B,6,,,Rowing,Team
+,,,,,,Canada,,8,,,Sailing,Team
+,,,,,,Germany,1 B,2,,,Sailing,Team
+,,,,,,Poland,,5,,,Tennis,Team
+,,,,,,Great Britain,2 G,2,,,Cycling Track,Team
+,,,,,,Italy,1 S,5,,,Beach Volleyball,Team
+,,,,,,Australia,1 B,2,,,Equestrian Eventing,Team
+,,,,,,Bulgaria,,5,,,Badminton,Team
+,,,,,,Belarus,1 B,1,,,Canoe Sprint,Team
+,,,,,,New Zealand,,1,,,Rowing,Team
+,,,,,,Netherlands,1 S,2,,,Equestrian Jumping,Team
+,,,,,,Canada,,1,,,Canoe Sprint,Team
+,,,,,,Hungary,,1,,,Swimming,Team
+,,,,,,Spain,1 S,1,,,Gymnastics Rhythmic,Team
+,,,,,,Portugal,,1,,,Canoe Sprint,Team
+,,,,,,Canada,1 B,5,,,Swimming,Team
+,,,,,,France,1 B,6,,,Swimming,Team
+,,,,,,New Zealand,,1,,,Cycling Track,Team
+,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
+,,,,,,Denmark,1 B,1,,,Sailing,Team
+,,,,,,Belgium,1 B,5,,,Tennis,Team
+,,,,,,Argentina,,2,,,Handball,Team
+,,,,,,Sweden,,4,,,Swimming,Team
+,,,,,,United States of America,14 G 4 S 4 B,22,,,Swimming,Team
+,,,,,,Switzerland,1 S 2 B,10,,,Fencing,Team
+,,,,,,Italy,1 S,6,,,Rowing,Team
+,,,,,,Germany,1 G 2 B,4,,,Football,Team
+,,,,,,Belgium,,1,,,Sailing,Team
+,,,,,,Australia,,1,,,Rugby,Team
+,,,,,,Australia,,1,,,Canoe Sprint,Team
+,,,,,,Poland,,3,,,Table Tennis,Team
+,,,,,,Switzerland,,11,,,Sailing,Team
+,,,,,,Serbia,1 G 2 B,3,,,Water Polo,Team
+,,,,,,Spain,2 G 1 S,8,,,Sailing,Team
+,,,,,,Norway,1 B,3,,,Rowing,Team
+,,,,,,Japan,,7,,,Tennis,Team
+,,,,,,Japan,1 S 3 B,13,,,Swimming,Team
+,,,,,,Spain,2 S,6,,,Synchronized Swimming,Team
+,,,,,,Czech Republic,,4,,,Beach Volleyball,Team
+,,,,,,Denmark,1 G 1 S 2 B,14,,,Cycling Track,Team
+,,,,,,Romania,3 G,4,,,Rowing,Team
+,,,,,,Poland,1 S,8,,,Athletics,Team
+,,,,,,Spain,2 S 1 B,16,,,Hockey,Team
+,,,,,,Japan,,4,,,Swimming,Team
+,,,,,,Greece,,5,,,Synchronized Swimming,Team
+,,,,,,Turkey,,2,,,Basketball,Team
+,,,,,,Brazil,,1,,,Canoe Slalom,Team
+,,,,,,Spain,,1,,,Rugby,Team
+,,,,,,Japan,2 B,13,,,Swimming,Team
+,,,,,,United States of America,8 G 1 S 1 B,10,,,Basketball,Team
+,,,,,,Finland,,1,,,Sailing,Team
+,,,,,,Australia,1 B,1,,,Archery,Team
+,,,,,,Canada,3 B,15,,,Swimming,Team
+,,,,,,Great Britain,1 G 1 S,7,,,Sailing,Team
+,,,,,,Brazil,,1,,,Gymnastics Artistic,Team
+,,,,,,Ireland,1 S,2,,,Rowing,Team
+,,,,,,Austria,,3,,,Table Tennis,Team
+,,,,,,India,,4,,,Tennis,Team
+,,,,,,Brazil,,2,,,Gymnastics Artistic,Team
+,,,,,,Hungary,,1,,,Canoe Sprint,Team
+,,,,,,People's Republic of China,,1,,,Athletics,Team
+,,,,,,Germany,1 G 1 S,10,,,Rowing,Team
+,,,,,,France,,10,,,Swimming,Team
+,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
+,,,,,,France,1 G 2 B,10,,,Sailing,Team
+,,,,,,Australia,,3,,,Table Tennis,Team
+,,,,,,Spain,,4,,,Swimming,Team
+,,,,,,Kazakhstan,,2,,,Tennis,Team
+,,,,,,Brazil,,1,,,Archery,Team
+,,,,,,Islamic Republic of Iran,,1,,,Volleyball,Team
+,,,,,,New Zealand,,1,,,Rowing,Team
+,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
+,,,,,,Russian Federation,,2,,,Rowing,Team
+,,,,,,Canada,,6,,,Basketball,Team
+,,,,,,India,,3,,,Tennis,Team
+,,,,,,Poland,1 B,5,,,Handball,Team
+,,,,,,Egypt,,6,,,Fencing,Team
+,,,,,,Singapore,1 S 1 B,3,,,Table Tennis,Team
+,,,,,,Switzerland,1 G,3,,,Rowing,Team
+,,,,,,People's Republic of China,2 S,8,,,Swimming,Team
+,,,,,,India,,1,,,Archery,Team
+,,,,,,Lithuania,3 B,7,,,Basketball,Team
+,,,,,,Italy,,1,,,Gymnastics Rhythmic,Team
+,,,,,,Germany,2 G 3 S 2 B,10,,,Rowing,Team
+,,,,,,Poland,,4,,,Tennis,Team
+,,,,,,Brazil,,1,,,Sailing,Team
+,,,,,,Germany,,1,,,Canoe Slalom,Team
+,,,,,,Poland,,1,,,Canoe Sprint,Team
+,,,,,,Israel,,9,,,Sailing,Team
+,,,,,,Brazil,2 G 2 B,10,,,Volleyball,Team
+,,,,,,Romania,3 G 3 S 3 B,11,,,Rowing,Team
+,,,,,,Colombia,,2,,,Football,Team
+,,,,,,Chile,,1,,,Rowing,Team
+,,,,,,Germany,1 G 2 B,4,,,Cycling Track,Team
+,,,,,,Russian Federation,,1,,,Canoe Sprint,Team
+,,,,,,Austria,1 B,1,,,Sailing,Team
+,,,,,,United States of America,,1,,,Rugby,Team
+,,,,,,Germany,,1,,,Swimming,Team
+,,,,,,Greece,,1,,,Rowing,Team
+,,,,,,Chinese Taipei,1 B,1,,,Archery,Team
+,,,,,,Brazil,1 G 4 S 2 B,6,,,Beach Volleyball,Team
+,,,,,,Germany,2 S,6,,,Rowing,Team
+,,,,,,India,,2,,,Badminton,Team
+,,,,,,Spain,,1,,,Rowing,Team
+,,,,,,United States of America,1 S,2,,,Equestrian Jumping,Team
+,,,,,,People's Republic of China,1 G 2 B,9,,,Gymnastics Artistic,Team
+,,,,,,United States of America,1 S 3 B,15,,,Fencing,Team
+,,,,,,United States of America,7 G 4 S,11,,,Athletics,Team
+,,,,,,Canada,1 G 2 B,9,,,Athletics,Team
+,,,,,,Ukraine,,1,,,Canoe Sprint,Team
+,,,,,,Poland,,4,,,Swimming,Team
+,,,,,,Mexico,,2,,,Beach Volleyball,Team
+,,,,,,Chile,1 G,5,,,Tennis,Team
+,,,,,,Senegal,,2,,,Basketball,Team
+,,,,,,Ukraine,,4,,,Diving,Team
+,,,,,,Australia,,6,,,Rowing,Team
+,,,,,,United States of America,,4,,,Rowing,Team
+,,,,,,Brazil,,5,,,Handball,Team
+,,,,,,New Zealand,1 S,1,,,Sailing,Team
+,,,,,,Austria,,1,,,Canoe Sprint,Team
+,,,,,,Germany,1 G,1,,,Canoe Sprint,Team
+,,,,,,Spain,1 S,2,,,Rowing,Team
+,,,,,,Italy,1 B,16,,,Swimming,Team
+,,,,,,Romania,5 G,11,,,Rowing,Team
+,,,,,,India,,9,,,Tennis,Team
+,,,,,,Germany,,6,,,Rowing,Team
+,,,,,,Germany,1 S 2 B,6,,,Swimming,Team
+,,,,,,Germany,,5,,,Badminton,Team
+,,,,,,Poland,,1,,,Swimming,Team
+,,,,,,Uzbekistan,,1,,,Canoe Sprint,Team
+,,,,,,France,,1,,,Canoe Sprint,Team
+,,,,,,Italy,7 G 5 S 1 B,20,,,Fencing,Team
+,,,,,,People's Republic of China,,5,,,Sailing,Team
+,,,,,,Iraq,,5,,,Football,Team
+,,,,,,Poland,,2,,,Fencing,Team
+,,,,,,United States of America,1 G 4 S 4 B,22,,,Water Polo,Team
+,,,,,,Brazil,1 B,11,,,Swimming,Team
+,,,,,,Hungary,,3,,,Swimming,Team
+,,,,,,Spain,,1,,,Archery,Team
+,,,,,,Chile,,1,,,Beach Volleyball,Team
+,,,,,,Spain,1 S,2,,,Water Polo,Team
+,,,,,,United States of America,,1,,,Sailing,Team
+,,,,,,Slovenia,,3,,,Handball,Team
+,,,,,,United States of America,,2,,,Sailing,Team
+,,,,,,Italy,,1,,,Equestrian Eventing,Team
+,,,,,,Germany,2 S,11,,,Rowing,Team
+,,,,,,United States of America,15 G 1 S 2 B,18,,,Basketball,Team
+,,,,,,Sweden,1 S,5,,,Football,Team
+,,,,,,Great Britain,2 B,12,,,Gymnastics Artistic,Team
+,,,,,,Netherlands,,2,,,Cycling Track,Team
+,,,,,,Germany,,6,,,Badminton,Team
+,,,,,,Brazil,,9,,,Swimming,Team
+,,,,,,Spain,,2,,,Tennis,Team
+,,,,,,France,,1,,,Canoe Sprint,Team
+,,,,,,Australia,1 G 1 S,2,,,Sailing,Team
+,,,,,,New Zealand,1 S 2 B,5,,,Rowing,Team
+,,,,,,Republic of Korea,,1,,,Canoe Sprint,Team
+,,,,,,Japan,,8,,,Water Polo,Team
+,,,,,,Italy,,9,,,Tennis,Team
+,,,,,,Germany,1 S,3,,,Diving,Team
+,,,,,,Brazil,,1,,,Diving,Team
+,,,,,,Russian Federation,,1,,,Canoe Sprint,Team
+,,,,,,Russian Federation,5 G,6,,,Synchronized Swimming,Team
+,,,,,,Netherlands,1 G 1 S 1 B,11,,,Rowing,Team
+,,,,,,United States of America,1 S 1 B,5,,,Diving,Team
+,,,,,,Great Britain,1 S 1 B,14,,,Swimming,Team
+,,,,,,People's Republic of China,,1,,,Cycling Track,Team
+,,,,,,France,1 G 1 B,5,,,Rowing,Team
+,,,,,,Great Britain,1 G 2 S 1 B,8,,,Tennis,Team
+,,,,,,Belgium,,3,,,Swimming,Team
+,,,,,,Cameroon,,1,,,Volleyball,Team
+,,,,,,Slovakia,1 S,1,,,Canoe Sprint,Team
+,,,,,,Netherlands,,1,,,Handball,Team
+,,,,,,Slovenia,,6,,,Sailing,Team
+,,,,,,France,1 S,3,,,Basketball,Team
+,,,,,,Australia,,2,,,Tennis,Team
+,,,,,,Jamaica,1 G 3 S 1 B,9,,,Athletics,Team
+,,,,,,Russian Federation,2 B,5,,,Water Polo,Team
+,,,,,,Germany,2 S 1 B,11,,,Athletics,Team
+,,,,,,Angola,,6,,,Handball,Team
+,,,,,,Russian Federation,,6,,,Swimming,Team
+,,,,,,Japan,2 S 2 B,6,,,Synchronized Swimming,Team
+,,,,,,Russian Federation,1 S,5,,,Swimming,Team
+,,,,,,Botswana,,2,,,Athletics,Team
+,,,,,,Greece,,1,,,Sailing,Team
+,,,,,,Denmark,,4,,,Swimming,Team
+,,,,,,Argentina,1 G,1,,,Sailing,Team
+,,,,,,Republic of Korea,1 B,9,,,Football,Team
+,,,,,,Germany,1 S 1 B,4,,,Diving,Team
+,,,,,,Estonia,1 B,1,,,Rowing,Team
+,,,,,,United States of America,11 G 2 S 2 B,17,,,Athletics,Team
+,,,,,,Belarus,2 B,3,,,Rowing,Team
+,,,,,,France,1 G,2,,,Equestrian Eventing,Team
+,,,,,,Netherlands,,3,,,Table Tennis,Team
+,,,,,,People's Republic of China,,3,,,Rowing,Team
+,,,,,,Czech Republic,2 S 1 B,6,,,Tennis,Team
+,,,,,,Tunisia,,1,,,Sailing,Team
+,,,,,,People's Republic of China,3 G,3,,,Table Tennis,Team
+,,,,,,Greece,,1,,,Rowing,Team
+,,,,,,Canada,1 G 2 S,11,,,Rowing,Team
+,,,,,,Spain,,1,,,Equestrian Jumping,Team
+,,,,,,Great Britain,1 G 2 B,6,,,Hockey,Team
+,,,,,,Portugal,,5,,,Football,Team
+,,,,,,Serbia,,1,,,Canoe Sprint,Team
+,,,,,,Serbia,,1,,,Canoe Sprint,Team
+,,,,,,Great Britain,1 S,8,,,Rowing,Team
+,,,,,,Spain,,1,,,Swimming,Team
+,,,,,,Poland,1 G 1 B,3,,,Rowing,Team
+,,,,,,People's Republic of China,,1,,,Rowing,Team
+,,,,,,Colombia,,2,,,Tennis,Team
+,,,,,,Argentina,2 B,9,,,Sailing,Team
+,,,,,,Great Britain,,11,,,Fencing,Team
+,,,,,,Brazil,,5,,,Handball,Team
+,,,,,,Canada,,1,,,Canoe Sprint,Team
+,,,,,,People's Republic of China,,1,,,Archery,Team
+,,,,,,Japan,2 S 3 B,6,,,Synchronized Swimming,Team
+,,,,,,Czech Republic,,2,,,Rowing,Team
+,,,,,,Canada,2 B,2,,,Football,Team
+,,,,,,India,,3,,,Athletics,Team
+,,,,,,Argentina,1 B,9,,,Tennis,Team
+,,,,,,Slovakia,,5,,,Tennis,Team
+,,,,,,Great Britain,,2,,,Sailing,Team
+,,,,,,Ukraine,1 B,2,,,Athletics,Team
+,,,,,,Greece,,3,,,Rowing,Team
+,,,,,,Italy,3 S 3 B,11,,,Volleyball,Team
+,,,,,,Romania,1 G 1 S,7,,,Rowing,Team
+,,,,,,Chile,,1,,,Sailing,Team
+,,,,,,Zimbabwe,,1,,,Football,Team
+,,,,,,Greece,,1,,,Gymnastics Rhythmic,Team
+,,,,,,Fiji,1 G,1,,,Rugby,Team
+,,,,,,Czech Republic,,1,,,Canoe Sprint,Team
+,,,,,,Russian Federation,2 G 2 B,5,,,Fencing,Team
+,,,,,,Austria,1 S,5,,,Tennis,Team
+,,,,,,Great Britain,1 S,1,,,Canoe Slalom,Team
+,,,,,,Netherlands,1 G,6,,,Gymnastics Artistic,Team
+,,,,,,Germany,,5,,,Rowing,Team
+,,,,,,Great Britain,3 G 2 S 9 B,19,,,Cycling Track,Team
+,,,,,,United States of America,10 G 4 S,14,,,Swimming,Team
+,,,,,,Czech Republic,,6,,,Tennis,Team
+,,,,,,Estonia,,1,,,Sailing,Team
+,,,,,,Ukraine,,4,,,Tennis,Team
+,,,,,,Brazil,,1,,,Diving,Team
+,,,,,,Ukraine,1 S 1 B,5,,,Gymnastics Artistic,Team
+,,,,,,New Zealand,,1,,,Rugby,Team
+,,,,,,Great Britain,1 B,8,,,Gymnastics Artistic,Team
+,,,,,,Republic of Korea,2 G 1 S,6,,,Badminton,Team
+,,,,,,Great Britain,1 S,14,,,Swimming,Team
+,,,,,,Belgium,1 S 1 B,13,,,Hockey,Team
+,,,,,,Great Britain,,2,,,Table Tennis,Team
+,,,,,,Russian Federation,,1,,,Equestrian Eventing,Team
+,,,,,,Montenegro,1 S,2,,,Handball,Team
+,,,,,,Serbia,1 B,1,,,Basketball,Team
+,,,,,,People's Republic of China,3 G 1 S 2 B,9,,,Volleyball,Team
+,,,,,,Azerbaijan,,1,,,Rowing,Team
+,,,,,,Russian Federation,3 S,5,,,Diving,Team
+,,,,,,France,2 S,9,,,Basketball,Team
+,,,,,,Australia,1 S,1,,,Sailing,Team
+,,,,,,Mexico,1 S,2,,,Diving,Team
+,,,,,,Belarus,,4,,,Synchronized Swimming,Team
+,,,,,,Great Britain,,3,,,Diving,Team
+,,,,,,France,,4,,,Volleyball,Team
+,,,,,,Egypt,,5,,,Synchronized Swimming,Team
+,,,,,,Great Britain,,4,,,Diving,Team
+,,,,,,New Zealand,1 S,1,,,Rugby,Team
+,,,,,,Nigeria,1 S 1 B,7,,,Athletics,Team
+,,,,,,France,,7,,,Swimming,Team
+,,,,,,Great Britain,,1,,,Canoe Sprint,Team
+,,,,,,Colombia,,1,,,Synchronized Swimming,Team
+,,,,,,Uzbekistan,,1,,,Gymnastics Rhythmic,Team
+,,,,,,Australia,1 G 3 S 4 B,14,,,Hockey,Team
+,,,,,,Australia,3 G 1 S 1 B,8,,,Sailing,Team
+,,,,,,Democratic People's Republic of Korea,,2,,,Table Tennis,Team
+,,,,,,Chinese Taipei,,1,,,Table Tennis,Team
+,,,,,,Puerto Rico,,1,,,Volleyball,Team
+,,,,,,Georgia,,1,,,Archery,Team
+,,,,,,Argentina,,1,,,Handball,Team
+,,,,,,Netherlands,,5,,,Swimming,Team
+,,,,,,Australia,3 S 2 B,8,,,Basketball,Team
+,,,,,,Poland,,2,,,Sailing,Team
+,,,,,,Australia,2 G 6 S,13,,,Swimming,Team
+,,,,,,Japan,1 S 1 B,3,,,Table Tennis,Team
+,,,,,,France,1 G 1 B,5,,,Tennis,Team
+,,,,,,"Hong Kong, China",,3,,,Table Tennis,Team
+,,,,,,Japan,,1,,,Equestrian Jumping,Team
+,,,,,,Denmark,,1,,,Canoe Sprint,Team
+,,,,,,Poland,,1,,,Swimming,Team
+,,,,,,Colombia,,5,,,Football,Team
+,,,,,,Belarus,,2,,,Basketball,Team
+,,,,,,Ireland,,1,,,Rowing,Team
+,,,,,,Switzerland,,2,,,Equestrian Jumping,Team
+,,,,,,Switzerland,,2,,,Sailing,Team
+,,,,,,Italy,,1,,,Canoe Sprint,Team
+,,,,,,United States of America,,4,,,Diving,Team
+,,,,,,Russian Federation,,4,,,Beach Volleyball,Team
+,,,,,,Brazil,,1,,,Rugby,Team
+,,,,,,Ireland,,2,,,Equestrian Eventing,Team
+,,,,,,Switzerland,,1,,,Rowing,Team
+,,,,,,Canada,,1,,,Cycling Track,Team
+,,,,,,Poland,,2,,,Beach Volleyball,Team
+,,,,,,Australia,,1,,,Rowing,Team
+,,,,,,Cuba,,3,,,Beach Volleyball,Team
+,,,,,,Canada,,1,,,Canoe Sprint,Team
+,,,,,,Sweden,1 G 2 B,10,,,Football,Team
+,,,,,,United States of America,2 G 3 S 1 B,19,,,Rowing,Team
+,,,,,,Poland,,4,,,Cycling Track,Team
+,,,,,,United States of America,,1,,,Table Tennis,Team
+,,,,,,Republic of Moldova,,1,,,Canoe Sprint,Team
+,,,,,,Malaysia,1 S,2,,,Diving,Team
+,,,,,,Denmark,1 G 1 B,4,,,Rowing,Team
+,,,,,,France,1 G 1 S 1 B,5,,,Rowing,Team
+,,,,,,People's Republic of China,,3,,,Water Polo,Team
+,,,,,,Canada,,2,,,Equestrian Eventing,Team
+,,,,,,Brazil,,1,,,Canoe Sprint,Team
+,,,,,,Great Britain,,1,,,Rowing,Team
+,,,,,,Germany,,2,,,Cycling Track,Team
+,,,,,,New Zealand,2 G,6,,,Rowing,Team
+,,,,,,Austria,,5,,,Beach Volleyball,Team
+,,,,,,Italy,,1,,,Archery,Team
+,,,,,,Croatia,1 S,4,,,Basketball,Team
+,,,,,,Great Britain,3 G,4,,,Cycling Track,Team
+,,,,,,Germany,1 G 1 B,6,,,Beach Volleyball,Team
+,,,,,,Netherlands,,4,,,Rowing,Team
+,,,,,,Canada,,1,,,Sailing,Team
+,,,,,,Egypt,,5,,,Volleyball,Team
+,,,,,,Great Britain,1 G 1 S 2 B,9,,,Rowing,Team
+,,,,,,Germany,,1,,,Sailing,Team
+,,,,,,Germany,1 S 1 B,7,,,Football,Team
+,,,,,,Sweden,,3,,,Table Tennis,Team
+,,,,,,Hungary,1 G,1,,,Canoe Sprint,Team
+,,,,,,United States of America,3 G 1 S,5,,,Football,Team
+,,,,,,Netherlands,,3,,,Volleyball,Team
+,,,,,,Argentina,,1,,,Canoe Sprint,Team
+,,,,,,Germany,1 G,1,,,Rowing,Team
+,,,,,,Australia,,2,,,Cycling Track,Team
+,,,,,,Canada,1 B,1,,,Rugby,Team
+,,,,,,Brazil,,1,,,Hockey,Team
+,,,,,,Italy,,1,,,Canoe Sprint,Team
+,,,,,,Norway,1 G 3 S 1 B,9,,,Rowing,Team
+,,,,,,United States of America,1 S 1 B,6,,,Rowing,Team
+,,,,,,Cuba,1 B,7,,,Volleyball,Team
+,,,,,,Portugal,,2,,,Sailing,Team
+,,,,,,"Hong Kong, China",,2,,,Swimming,Team
+,,,,,,People's Republic of China,,4,,,Rowing,Team
+,,,,,,Italy,2 S 1 B,11,,,Rowing,Team
+,,,,,,Venezuela,,2,,,Cycling Track,Team
+,,,,,,Vietnam,,3,,,Rowing,Team
+,,,,,,United States of America,1 B,2,,,Equestrian Dressage,Team
+,,,,,,Hungary,,4,,,Water Polo,Team
+,,,,,,Germany,2 G 2 S,7,,,Rowing,Team
+,,,,,,Netherlands,2 G 6 S 4 B,20,,,Swimming,Team
+,,,,,,Russian Federation,,5,,,Swimming,Team
+,,,,,,France,1 G 1 B,4,,,Fencing,Team
+,,,,,,Romania,,11,,,Rowing,Team
+,,,,,,Brazil,1 G 3 S 1 B,12,,,Football,Team
+,,,,,,Canada,1 S 1 B,6,,,Rowing,Team
+,,,,,,Australia,,14,,,Basketball,Team
+,,,,,,Hungary,,1,,,Canoe Sprint,Team
+,,,,,,New Zealand,,2,,,Cycling Track,Team
+,,,,,,Jamaica,2 G 1 S,8,,,Athletics,Team
+,,,,,,Spain,3 S 1 B,8,,,Tennis,Team
+,,,,,,Greece,1 B,8,,,Sailing,Team
+,,,,,,Japan,,4,,,Basketball,Team
+,,,,,,New Zealand,2 G 1 S 1 B,7,,,Rowing,Team
+,,,,,,Australia,,1,,,Canoe Sprint,Team
+,,,,,,Russian Federation,1 G 1 B,6,,,Tennis,Team
+,,,,,,United States of America,1 S 2 B,10,,,Rowing,Team
+,,,,,,Greece,,15,,,Water Polo,Team
+,,,,,,People's Republic of China,1 S,4,,,Football,Team
+,,,,,,People's Republic of China,1 S,5,,,Rowing,Team
+,,,,,,Italy,,10,,,Swimming,Team
+,,,,,,Spain,1 B,4,,,Handball,Team
+,,,,,,People's Republic of China,4 G 1 S,5,,,Diving,Team
+,,,,,,Brazil,,3,,,Rowing,Team
+,,,,,,People's Republic of China,,1,,,Swimming,Team
+,,,,,,Germany,,1,,,Sailing,Team
+,,,,,,Chile,,3,,,Sailing,Team
+,,,,,,"Hong Kong, China",,3,,,Badminton,Team
+,,,,,,Malaysia,,1,,,Archery,Team
+,,,,,,Argentina,,1,,,Volleyball,Team
+,,,,,,France,,2,,,Sailing,Team
+,,,,,,Japan,1 B,10,,,Sailing,Team
+,,,,,,Netherlands,2 G 4 S 3 B,17,,,Hockey,Team
+,,,,,,People's Republic of China,,2,,,Cycling Track,Team
+,,,,,,Russian Federation,2 S,6,,,Volleyball,Team
+,,,,,,Netherlands,2 G 2 S 3 B,8,,,Hockey,Team
+,,,,,,Denmark,1 B,2,,,Sailing,Team
+,,,,,,Brazil,,1,,,Water Polo,Team
+,,,,,,Germany,1 S 2 B,3,,,Table Tennis,Team
+,,,,,,Serbia,,1,,,Rowing,Team
+,,,,,,Italy,1 B,6,,,Rowing,Team
+,,,,,,Republic of Korea,2 G 2 S 3 B,7,,,Badminton,Team
+,,,,,,Great Britain,2 G 1 S 1 B,11,,,Rowing,Team
+,,,,,,Republic of Korea,1 G,1,,,Archery,Team
+,,,,,,Switzerland,,9,,,Cycling Track,Team
+,,,,,,Brazil,,1,,,Gymnastics Rhythmic,Team
+,,,,,,Hungary,,10,,,Swimming,Team
+,,,,,,Spain,1 S,4,,,Basketball,Team
+,,,,,,Romania,,3,,,Tennis,Team
+,,,,,,Costa Rica,,1,,,Beach Volleyball,Team
+,,,,,,Israel,,4,,,Synchronized Swimming,Team
+,,,,,,Italy,,2,,,Rowing,Team
+,,,,,,Brazil,2 G 3 S 1 B,6,,,Beach Volleyball,Team
+,,,,,,United States of America,14 G,14,,,Swimming,Team
+,,,,,,Brazil,,2,,,Rowing,Team
+,,,,,,Republic of Korea,2 S,7,,,Hockey,Team
+,,,,,,Brazil,,1,,,Swimming,Team
+,,,,,,Ukraine,,5,,,Synchronized Swimming,Team
+,,,,,,Slovenia,,1,,,Canoe Slalom,Team
+,,,,,,United States of America,1 G 1 S 1 B,8,,,Sailing,Team
+,,,,,,Japan,1 B,11,,,Gymnastics Artistic,Team
+,,,,,,Denmark,1 B,5,,,Swimming,Team
+,,,,,,United States of America,,5,,,Badminton,Team
+,,,,,,Japan,,1,,,Canoe Slalom,Team
+,,,,,,Czech Republic,,5,,,Synchronized Swimming,Team
+,,,,,,Great Britain,1 G,5,,,Diving,Team
+,,,,,,Great Britain,1 G 1 S 4 B,22,,,Swimming,Team
+,,,,,,Italy,1 G 2 S 2 B,11,,,Rowing,Team
+,,,,,,Canada,1 G,8,,,Tennis,Team
+,,,,,,New Zealand,1 B,2,,,Equestrian Eventing,Team
+,,,,,,United States of America,4 G 1 S 1 B,10,,,Rowing,Team
+,,,,,,People's Republic of China,1 G 1 S 1 B,4,,,Fencing,Team
+,,,,,,Spain,,1,,,Canoe Sprint,Team
+,,,,,,Germany,1 S 2 B,9,,,Swimming,Team
+,,,,,,Netherlands,1 B,2,,,Tennis,Team
+,,,,,,New Zealand,1 G,3,,,Rowing,Team
+,,,,,,Poland,1 B,1,,,Canoe Sprint,Team
+,,,,,,Republic of Korea,,1,,,Fencing,Team
+,,,,,,Indonesia,,1,,,Archery,Team
+,,,,,,Mexico,,6,,,Synchronized Swimming,Team
+,,,,,,Spain,,5,,,Swimming,Team
+,,,,,,Brazil,,2,,,Equestrian Jumping,Team
+,,,,,,Australia,,2,,,Equestrian Jumping,Team
+,,,,,,Chinese Taipei,,1,,,Archery,Team
+,,,,,,Ukraine,1 B,1,,,Canoe Sprint,Team
+,,,,,,Denmark,,1,,,Sailing,Team
+,,,,,,Australia,2 G 3 S 1 B,8,,,Rowing,Team
+,,,,,,Portugal,,4,,,Tennis,Team
+,,,,,,United States of America,3 G 1 S,6,,,Beach Volleyball,Team
+,,,,,,United States of America,3 G 1 S 2 B,6,,,Beach Volleyball,Team
+,,,,,,Denmark,,5,,,Rowing,Team
+,,,,,,Greece,,2,,,Swimming,Team
+,,,,,,Israel,,1,,,Swimming,Team
+,,,,,,Argentina,,1,,,Rugby,Team
+,,,,,,South Africa,,3,,,Sailing,Team
+,,,,,,Ireland,,2,,,Sailing,Team
+,,,,,,France,,2,,,Cycling Track,Team
+,,,,,,Australia,2 G 1 S 1 B,11,,,Rowing,Team
+,,,,,,Australia,1 G 1 S,8,,,Tennis,Team
+,,,,,,Japan,,3,,,Badminton,Team
+,,,,,,Ukraine,,1,,,Rowing,Team
+,,,,,,Australia,,1,,,Canoe Sprint,Team
+,,,,,,Slovakia,1 G,1,,,Canoe Slalom,Team
+,,,,,,Netherlands,1 B,4,,,Beach Volleyball,Team
+,,,,,,Russian Federation,,4,,,Swimming,Team
+,,,,,,Italy,,1,,,Archery,Team
+,,,,,,New Zealand,,2,,,Rowing,Team
+,,,,,,Canada,,6,,,Hockey,Team
+,,,,,,Kenya,,1,,,Rugby,Team
+,,,,,,Canada,,1,,,Sailing,Team
+,,,,,,Australia,,6,,,Synchronized Swimming,Team
+,,,,,,Germany,1 B,2,,,Equestrian Jumping,Team
+,,,,,,Russian Federation,1 G,2,,,Fencing,Team
+,,,,,,People's Republic of China,4 G 1 S,5,,,Diving,Team
+,,,,,,New Zealand,,2,,,Tennis,Team
+,,,,,,Japan,,5,,,Badminton,Team
+,,,,,,Poland,,1,,,Cycling Track,Team
+,,,,,,Great Britain,1 G 2 S,5,,,Tennis,Team
+,,,,,,Denmark,1 G,7,,,Handball,Team
+,,,,,,New Zealand,,2,,,Football,Team
+,,,,,,Sweden,,9,,,Swimming,Team
+,,,,,,Netherlands,1 S 1 B,6,,,Sailing,Team
+,,,,,,Great Britain,1 S 1 B,6,,,Badminton,Team
+,,,,,,Australia,2 B,7,,,Tennis,Team
+,,,,,,Lithuania,2 B,2,,,Rowing,Team
+,,,,,,Kazakhstan,,1,,,Canoe Sprint,Team
+,,,,,,Qatar,,1,,,Handball,Team

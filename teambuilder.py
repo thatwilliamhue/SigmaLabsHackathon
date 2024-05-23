@@ -16,7 +16,6 @@ def load_and_prep_players():
     dfplayers['Nationality'] = dfplayers['nationality']
     dfplayers['Medals'] = dfplayers['medals']
     dfplayers['Olympics Games Participated'] = dfplayers['games']
-    dfplayers['Biography'] = dfplayers['biography']
     dfplayers['Price'] = dfplayers['price']
     dfplayers['Media Focus'] = dfplayers['focus'].apply(lambda val: str(val) + ' tweets')
     dfplayers['Sport Name'] = dfplayers['sport']
@@ -26,7 +25,7 @@ def load_and_prep_players():
 
 dfplayers = load_and_prep_players()
 
-cols = ['ID','Name','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Biography','Price','Media Focus','Sport Name', 'Sport Category',]
+cols = ['ID','Name','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Price','Media Focus','Sport Name', 'Sport Category',]
 
 ########################################### Style ###########################################
 
@@ -186,7 +185,7 @@ with tab_lookup:
     st.data_editor(
         dfplayers,
         hide_index=True,
-        column_order=('ID','Name','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Biography','Price','Media Focus','Sport Name', 'Sport Category')
+        column_order=('ID','Name','Age','Gender','Height','Weight','Nationality','Medals','Olympics Games Participated','Price','Media Focus','Sport Name', 'Sport Category')
     )
 
 
