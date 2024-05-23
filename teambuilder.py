@@ -96,7 +96,7 @@ st.title("Olympic Fantasy League")
 st.markdown('''##### <span style="color:gray">Build your Olympics dream team</span>
             ''', unsafe_allow_html=True)
 
-tab_selection, tab_lookup, tab_credits = st.tabs(["Player/Team Selection", "Player/Team Lookup", "Credits"])
+tab_selection, tab_lookup, tab_instructions, tab_credits = st.tabs(["Player/Team Selection", "Player/Team Lookup", "Instructions", "Credits"])
 
 col1, col2, col3 = st.sidebar.columns([1, 8, 1])
 with col1:
@@ -192,3 +192,15 @@ with tab_credits:
     st.write(f'''
          ##### <div style="text-align: center"> HSBC SigmaLabs Hackathon Team <br><br> Aleksandr Agadzhanov <br> Christian Albertalli <br> James Attwood <br> Sarah Howard <br> Viktoriya Savchyn <br> Will Zhang <br><br> <span style="color:blue"> {'Thank you for your support!'} </span></div>
          ''', unsafe_allow_html=True)
+
+
+with tab_instructions:
+    st.markdown(" ### Instructions🔎 ")
+
+    ########## 
+    expand_faq1 = st.expander('''How to Play!''')
+    with expand_faq1:
+        
+        st.write('''You can choose 5 individual athletes and 2 teams.  \n You have a budget of 1000 coins - player cost will vary depending on experience so choose your team wisely!  \n Follow along with live Olympic events and gain points as your players do.  \n Compare and compete with friends and immerse yourselves in the Paris Olympics.''', unsafe_allow_html=True)
+    
+    ##########
