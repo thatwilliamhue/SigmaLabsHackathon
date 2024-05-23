@@ -67,8 +67,8 @@ def color_focus(val):
 
 
 heading_properties = [('font-size', '16px'), ('text-align', 'center'),
-                      ('color', 'black'), ('font-weight', 'bold'),
-                      ('background', 'mediumturquoise'), ('border', '1.2px solid')]
+                      ('color', 'gray'), ('font-weight', 'bold'),
+                      ('background', 'gold'), ('border', '1.2px solid')]
 
 cell_properties = [('font-size', '16px'), ('text-align', 'center'), ('color', 'black')]
 
@@ -82,7 +82,7 @@ st.markdown(
 <style>
 .streamlit-expanderHeader {
  #   font-weight: bold;
-    background: aliceblue;
+    background: gold;
     font-size: 18px;
 }
 </style>
@@ -108,7 +108,7 @@ with col3:
 
 st.sidebar.markdown(" ## About Olympic Fantasy League")
 st.sidebar.markdown(
-    "  \n Welcome to Olympic Fantasy League!  \n You have 500 coins to build your 2024 Paris Olympics team.  \n Choose 5 athletes from individual sports and 2 teams.  \n Follow along with live Olympic events and gain points as your players do.  \n Compare and compete with friends and immerse yourselves in the Paris Olympics.")
+    "  \n Welcome to Olympic Fantasy League!  \n It's time to build your 2024 Paris Olympics dream team.  \n You can choose 5 individual athletes and 2 teams.  \n You have a budget of 1000 coins - player cost will vary depending on experience so choose your team wisely!  \n Follow along with live Olympic events and gain points as your players do.  \n Compare and compete with friends and immerse yourselves in the Paris Olympics.")
 
 
 ########################################### Selection Tab ###########################################
@@ -125,7 +125,7 @@ with tab_selection:
     budget = 1000
 
     st.write(f'''
-         ##### <div style="text-align: center"> Time to select your 5 individual players and 2 teams. You have <span style="color:blue"> {budget} </span>  coins to spend. </div>
+         ##### <div style="text-align: center"> Time to select your 5 individual players and 2 teams. You have <span style="color:gold"> {budget} </span>  coins to spend. </div>
          ''', unsafe_allow_html=True)
 
     player = st.selectbox("Player lookup (just start typing):", dfplayers.Name, index=None)
