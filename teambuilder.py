@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import geopandas as gpd
+import folium
+from streamlit_folium import st_folium
 
 st.set_page_config(page_title="HSBC SigmaLabs", page_icon="🏅",initial_sidebar_state="expanded")
 ########################################### Load Data ###########################################
@@ -96,7 +99,7 @@ st.title("Olympic Fantasy League")
 st.markdown('''##### <span style="color:gray">Build your Olympics dream team</span>
             ''', unsafe_allow_html=True)
 
-tab_selection, tab_lookup, tab_instructions, tab_credits = st.tabs(["Player/Team Selection", "Player/Team Lookup", "Instructions", "Credits"])
+tab_selection, tab_lookup, tab_instructions, tab_world ,tab_credits = st.tabs(["Player/Team Selection", "Player/Team Lookup", "Country View", "Instructions", "Credits"])
 
 col1, col2, col3 = st.sidebar.columns([1, 8, 1])
 with col1:
@@ -193,6 +196,43 @@ with tab_credits:
          ##### <div style="text-align: center"> HSBC SigmaLabs Hackathon Team <br><br> Aleksandr Agadzhanov <br> Christian Albertalli <br> James Attwood <br> Sarah Howard <br> Viktoriya Savchyn <br> Will Zhang <br><br> <span style="color:blue"> {'Thank you for your support!'} </span></div>
          ''', unsafe_allow_html=True)
 
+###################
+
+with tab_world:
+    # Load the world map data
+    world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+
+    # Streamlit app
+    st.title('World Map Highlighting')
+
+    # Select box for country selection
+    countries = world['name'].tolist()
+    selected_country = st.selectbox('Select a country', countries)
+
+    # Create a folium map centered around the selected country
+    m = folium.Map(zoom_start=2)
+
+    # Add all countries to the map with a default style
+    for _, row in world.iterrows():
+        folium.GeoJson(
+            row['geometry'],
+            style_function=lambda x, row=row: {'fillColor': 'gray' if row['name'] != selected_country else 'blue', 'color': 'black', 'weight': 0.5},
+            tooltip=row['name']
+        ).add_to(m)
+
+    # Add selected country with a different style
+    if selected_country:
+        country_geometry = world[world['name'] == selected_country]['geometry'].values[0]
+        folium.GeoJson(
+            country_geometry,
+            style_function=lambda x: {'fillColor': 'blue', 'color': 'black', 'weight': 2},
+            tooltip=selected_country
+        ).add_to(m)
+
+    # Display the map in Streamlit
+    st_folium(m, width=700, height=500)
+
+#####################
 
 with tab_instructions:
     st.markdown(" ### Instructions🔎 ")
