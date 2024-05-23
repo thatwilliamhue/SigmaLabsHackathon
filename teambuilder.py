@@ -185,9 +185,9 @@ with tab_instructions:
     st.markdown(" ### Instructions🔎 ")
 
     ########## 
-    expand_faq1 = st.expander('''How to Play!)''')
+    expand_faq1 = st.expander('''How to Play!''')
     with expand_faq1:
         
-        st.write('''text''', unsafe_allow_html=True)
+        st.write('''You can choose 5 individual athletes and 2 teams.  \n You have a budget of 1000 coins - player cost will vary depending on experience so choose your team wisely!  \n Follow along with live Olympic events and gain points as your players do.  \n Compare and compete with friends and immerse yourselves in the Paris Olympics.''', unsafe_allow_html=True)
     
     ##########
