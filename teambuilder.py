@@ -162,6 +162,6 @@ with tab_lookup:
          ##### <div style="text-align: center"> text. </div>
          ''', unsafe_allow_html=True)
 
-
-
+    sport = st.selectbox("Sport lookup (just start typing):", dfplayers.sport, index=None)
+    
 ########################################### Credits Tab ###########################################
